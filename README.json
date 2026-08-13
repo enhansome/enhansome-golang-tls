@@ -1,0 +1,450 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate private key (.key)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generation of self-signed(x509) public key (PEM-encodings |) based on the private ()"
+    },
+    {
+      "description": "Hint: visit, please do not forget to use https begins, otherwise chrome will download a file as follows:",
+      "items": [],
+      "title": "Simple Golang HTTPS/TLS Server"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TLS (transport layer security) —"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TLS (transport layer security) —"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Perfect SSL Labs Score with Go"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generating the Certficate Signing Request"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CA Bundle Path"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/FiloSottile/mkcert",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-13T13:37:46Z",
+            "owner": "FiloSottile",
+            "repo": "mkcert",
+            "stars": 59447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/cloudflare/cfssl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-24T00:37:10Z",
+            "owner": "cloudflare",
+            "repo": "cfssl",
+            "stars": 9464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/smallstep/certificates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:40:47Z",
+            "owner": "smallstep",
+            "repo": "certificates",
+            "stars": 8748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go programming language secure coding practices guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-31T08:03:49Z",
+            "owner": "OWASP",
+            "repo": "Go-SCP",
+            "stars": 5282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/nabla-c0d3/sslyze",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T13:13:16Z",
+            "owner": "nabla-c0d3",
+            "repo": "sslyze",
+            "stars": 3769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/chromium/badssl.com",
+          "description": "(https://badssl.com)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-01T22:42:57Z",
+            "owner": "chromium",
+            "repo": "badssl.com",
+            "stars": 3039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/unrolled/secure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-01T20:53:04Z",
+            "owner": "unrolled",
+            "repo": "secure",
+            "stars": 2353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/datatheorem/TrustKit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-08-12T22:04:54Z",
+            "owner": "datatheorem",
+            "repo": "TrustKit",
+            "stars": 2140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mozilla/cipherscan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-09T16:21:03Z",
+            "owner": "mozilla",
+            "repo": "cipherscan",
+            "stars": 1996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ssllabs/ssllabs-scan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-05T18:08:22Z",
+            "owner": "ssllabs",
+            "repo": "ssllabs-scan",
+            "stars": 1767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/google/certificate-transparency-go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T09:21:55Z",
+            "owner": "google",
+            "repo": "certificate-transparency-go",
+            "stars": 1164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/google/certificate-transparency",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-08-02T10:33:41Z",
+            "owner": "google",
+            "repo": "certificate-transparency",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/iSECPartners/sslyze",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-08-27T18:49:08Z",
+            "owner": "iSECPartners",
+            "repo": "sslyze",
+            "stars": 646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/tomato42/tlsfuzzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:31:49Z",
+            "owner": "tlsfuzzer",
+            "repo": "tlsfuzzer",
+            "stars": 632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mozilla/tls-observatory",
+          "description": "(https://observatory.mozilla.org/)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-09-23T14:33:32Z",
+            "owner": "mozilla",
+            "repo": "tls-observatory",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/zmap/zlint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T19:06:54Z",
+            "owner": "zmap",
+            "repo": "zlint",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/cloudflare/tls-tris",
+          "description": "crypto/tls, now with 100% more 1.3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-24T00:41:15Z",
+            "owner": "cloudflare",
+            "repo": "tls-tris",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/genkiroid/cert",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-04-22T00:17:38Z",
+            "owner": "genkiroid",
+            "repo": "cert",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/bifurcation/mint",
+          "description": "minimal TLS 1.3 Implementation in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-18T22:04:38Z",
+            "owner": "bifurcation",
+            "repo": "mint",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/certifi/gocertifi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-06-07T20:20:50Z",
+            "owner": "certifi",
+            "repo": "gocertifi",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/konklone/shaaaaaaaaaaaaa",
+          "description": "(https://shaaaaaaaaaaaaa.com/)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-10-02T06:00:39Z",
+            "owner": "konklone",
+            "repo": "shaaaaaaaaaaaaa",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/cmrunton/tls-dashboard",
+          "description": "dashboard written in JavaScript & HTML to check the remaining time before a TLS certificate expires.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-26T14:26:08Z",
+            "owner": "cmrunton",
+            "repo": "tls-dashboard",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package tcplisten",
+          "description": "provides customizable TCP with various performance-related options",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-01-22T18:42:18Z",
+            "owner": "valyala",
+            "repo": "tcplisten",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Xeoncross/secureserver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-12-26T15:59:49Z",
+            "owner": "xeoncross",
+            "repo": "secureserver",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/tidwall/modern-server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-06-23T13:36:37Z",
+            "owner": "tidwall",
+            "repo": "modern-server",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/globalsign/certlint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2019-01-05T14:36:36Z",
+            "owner": "globalsign",
+            "repo": "certlint",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Evolix/chexpire",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-03-09T01:23:24Z",
+            "owner": "Evolix",
+            "repo": "chexpire",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mimoo/cryptobible/blob/master/protocols/tls.mediawiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-09-26T07:00:00Z",
+            "owner": "mimoo",
+            "repo": "cryptobible",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Reference Link"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:17.119Z",
+    "original_repository": "denji/golang-tls",
+    "original_repository_sha": "8646b4d514e3b96039c993e340d49dad1b56e114",
+    "enhanced_repository": "enhansome/enhansome-golang-tls",
+    "enhanced_repository_description": null,
+    "title": "Awesome golang tls with stars"
+  }
+}
