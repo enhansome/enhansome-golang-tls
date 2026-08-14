@@ -54,7 +54,7 @@
             "last_commit": "2024-08-13T13:37:46Z",
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59447
+            "stars": 59448
           }
         },
         {
@@ -79,10 +79,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T09:40:47Z",
+            "last_commit": "2026-08-13T16:39:45Z",
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8748
+            "stars": 8749
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-05-31T08:03:49Z",
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5282
+            "stars": 5283
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-07-29T13:13:16Z",
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3769
+            "stars": 3770
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-06-01T22:42:57Z",
             "owner": "chromium",
             "repo": "badssl.com",
-            "stars": 3039
+            "stars": 3040
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2023-01-22T18:42:18Z",
             "owner": "valyala",
             "repo": "tcplisten",
-            "stars": 151
+            "stars": 150
           }
         },
         {
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:14:17.119Z",
+    "last_updated": "2026-08-14T02:42:09.935Z",
     "original_repository": "denji/golang-tls",
     "original_repository_sha": "8646b4d514e3b96039c993e340d49dad1b56e114",
     "enhanced_repository": "enhansome/enhansome-golang-tls",

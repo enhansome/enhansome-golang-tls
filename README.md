@@ -247,12 +247,12 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,447 | 🐛 176 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,448 | 🐛 176 | 🌐 Go | 📅 2024-08-13
 * <https://github.com/cloudflare/cfssl> ⭐ 9,464 | 🐛 336 | 🌐 Go | 📅 2026-04-24
-* <https://github.com/smallstep/certificates> ⭐ 8,748 | 🐛 286 | 🌐 Go | 📅 2026-08-12
-* [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,282 | 🐛 26 | 🌐 Go | 📅 2024-05-31
-* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,769 | 🐛 28 | 🌐 Python | 📅 2026-07-29
-* <https://github.com/chromium/badssl.com> ⭐ 3,039 | 🐛 208 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
+* <https://github.com/smallstep/certificates> ⭐ 8,749 | 🐛 287 | 🌐 Go | 📅 2026-08-13
+* [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,283 | 🐛 26 | 🌐 Go | 📅 2024-05-31
+* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,770 | 🐛 29 | 🌐 Python | 📅 2026-07-29
+* <https://github.com/chromium/badssl.com> ⭐ 3,040 | 🐛 208 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
 * <https://github.com/unrolled/secure> ⭐ 2,353 | 🐛 0 | 🌐 Go | 📅 2026-05-01
 * <https://github.com/datatheorem/TrustKit> ⭐ 2,140 | 🐛 34 | 🌐 Objective-C | 📅 2026-08-12
 * <https://github.com/mozilla/cipherscan> ⭐ 1,996 | 🐛 35 | 🌐 Python | 📅 2025-06-09
@@ -269,7 +269,7 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 * <https://github.com/certifi/gocertifi> ⭐ 213 | 🐛 6 | 🌐 Go | 📅 2023-06-07
 * <https://github.com/konklone/shaaaaaaaaaaaaa> ⚠️ Archived (<https://shaaaaaaaaaaaaa.com/>)
 * <https://github.com/cmrunton/tls-dashboard> ⭐ 184 | 🐛 4 | 🌐 JavaScript | 📅 2016-08-26 — dashboard written in JavaScript & HTML to check the remaining time before a TLS certificate expires.
-* Package [tcplisten](https://github.com/valyala/tcplisten) ⭐ 151 | 🐛 8 | 🌐 Go | 📅 2023-01-22 provides customizable TCP `net.Listener` with various performance-related options
+* Package [tcplisten](https://github.com/valyala/tcplisten) ⭐ 150 | 🐛 8 | 🌐 Go | 📅 2023-01-22 provides customizable TCP `net.Listener` with various performance-related options
 * <https://github.com/Xeoncross/secureserver> ⭐ 134 | 🐛 2 | 🌐 Go | 📅 2016-12-26
 * <https://github.com/tidwall/modern-server> ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2022-06-23
 * <https://github.com/globalsign/certlint> ⚠️ Archived
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
