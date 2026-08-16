@@ -54,7 +54,7 @@
             "last_commit": "2024-08-13T13:37:46Z",
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59454
+            "stars": 59457
           }
         },
         {
@@ -68,7 +68,7 @@
             "last_commit": "2026-04-24T00:37:10Z",
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9465
+            "stars": 9467
           }
         },
         {
@@ -233,7 +233,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:06:38Z",
+            "last_commit": "2026-08-15T06:55:59Z",
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
             "stars": 632
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T01:47:14.167Z",
+    "last_updated": "2026-08-16T01:55:05.694Z",
     "original_repository": "denji/golang-tls",
     "original_repository_sha": "8646b4d514e3b96039c993e340d49dad1b56e114",
     "enhanced_repository": "enhansome/enhansome-golang-tls",
