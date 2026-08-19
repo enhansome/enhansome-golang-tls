@@ -54,7 +54,7 @@
             "last_commit": "2024-08-13T13:37:46Z",
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59459
+            "stars": 59464
           }
         },
         {
@@ -68,7 +68,7 @@
             "last_commit": "2026-04-24T00:37:10Z",
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9465
+            "stars": 9464
           }
         },
         {
@@ -82,7 +82,7 @@
             "last_commit": "2026-08-17T20:45:56Z",
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8753
+            "stars": 8755
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-05-31T08:03:49Z",
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5284
+            "stars": 5285
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-07-29T13:13:16Z",
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3772
+            "stars": 3773
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2025-06-09T16:21:03Z",
             "owner": "mozilla",
             "repo": "cipherscan",
-            "stars": 1994
+            "stars": 1993
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-08-05T18:08:22Z",
             "owner": "ssllabs",
             "repo": "ssllabs-scan",
-            "stars": 1767
+            "stars": 1768
           }
         },
         {
@@ -233,7 +233,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T17:21:38Z",
+            "last_commit": "2026-08-18T18:08:40Z",
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
             "stars": 632
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:48:22.631Z",
+    "last_updated": "2026-08-19T01:50:54.434Z",
     "original_repository": "denji/golang-tls",
     "original_repository_sha": "8646b4d514e3b96039c993e340d49dad1b56e114",
     "enhanced_repository": "enhansome/enhansome-golang-tls",
