@@ -1,47 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Generate private key (.key)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Generation of self-signed(x509) public key (PEM-encodings |) based on the private ()"
-    },
-    {
-      "description": "Hint: visit, please do not forget to use https begins, otherwise chrome will download a file as follows:",
-      "items": [],
-      "title": "Simple Golang HTTPS/TLS Server"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "TLS (transport layer security) —"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "TLS (transport layer security) —"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Perfect SSL Labs Score with Go"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Generating the Certficate Signing Request"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "CA Bundle Path"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -50,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138547797,
             "language": "Go",
             "last_commit": "2024-08-13T13:37:46Z",
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59464
+            "stars": 59466
           }
         },
         {
@@ -64,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21591001,
             "language": "Go",
             "last_commit": "2026-04-24T00:37:10Z",
             "owner": "cloudflare",
@@ -78,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155658556,
             "language": "Go",
             "last_commit": "2026-08-17T20:45:56Z",
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8755
+            "stars": 8758
           }
         },
         {
@@ -92,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87070385,
             "language": "Go",
             "last_commit": "2024-05-31T08:03:49Z",
             "owner": "OWASP",
@@ -106,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23058769,
             "language": "Python",
             "last_commit": "2026-07-29T13:13:16Z",
             "owner": "nabla-c0d3",
@@ -120,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33571868,
             "language": "HTML",
             "last_commit": "2026-06-01T22:42:57Z",
             "owner": "chromium",
@@ -134,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19994985,
             "language": "Go",
             "last_commit": "2026-05-01T20:53:04Z",
             "owner": "unrolled",
@@ -148,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30566161,
             "language": "Objective-C",
             "last_commit": "2026-08-12T22:04:54Z",
             "owner": "datatheorem",
@@ -162,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11484496,
             "language": "Python",
             "last_commit": "2025-06-09T16:21:03Z",
             "owner": "mozilla",
@@ -176,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25200819,
             "language": "Go",
             "last_commit": "2024-08-05T18:08:22Z",
             "owner": "ssllabs",
@@ -190,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90636971,
             "language": "Go",
             "last_commit": "2026-08-03T09:21:55Z",
             "owner": "google",
@@ -204,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19989605,
             "language": "C++",
             "last_commit": "2023-08-02T10:33:41Z",
             "owner": "google",
@@ -218,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4950184,
             "language": "Python",
             "last_commit": "2015-08-27T18:49:08Z",
             "owner": "iSECPartners",
@@ -232,8 +205,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28972619,
             "language": "Python",
-            "last_commit": "2026-08-18T18:08:40Z",
+            "last_commit": "2026-08-19T10:07:07Z",
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
             "stars": 632
@@ -246,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23923847,
             "language": "Go",
             "last_commit": "2025-09-23T14:33:32Z",
             "owner": "mozilla",
@@ -260,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75216133,
             "language": "Go",
             "last_commit": "2026-08-16T18:08:13Z",
             "owner": "zmap",
@@ -274,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59218728,
             "language": "Go",
             "last_commit": "2026-04-24T00:41:15Z",
             "owner": "cloudflare",
@@ -288,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100850352,
             "language": "Go",
             "last_commit": "2023-04-22T00:17:38Z",
             "owner": "genkiroid",
@@ -302,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52216913,
             "language": "Go",
             "last_commit": "2023-12-18T22:04:38Z",
             "owner": "bifurcation",
@@ -316,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18764767,
             "language": "Go",
             "last_commit": "2023-06-07T20:20:50Z",
             "owner": "certifi",
@@ -330,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23290424,
             "language": "JavaScript",
             "last_commit": "2020-10-02T06:00:39Z",
             "owner": "konklone",
@@ -344,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59062065,
             "language": "JavaScript",
             "last_commit": "2016-08-26T14:26:08Z",
             "owner": "cmrunton",
@@ -358,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68122506,
             "language": "Go",
             "last_commit": "2023-01-22T18:42:18Z",
             "owner": "valyala",
@@ -372,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76905581,
             "language": "Go",
             "last_commit": "2016-12-26T15:59:49Z",
             "owner": "xeoncross",
@@ -386,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119617445,
             "language": "Go",
             "last_commit": "2022-06-23T13:36:37Z",
             "owner": "tidwall",
@@ -400,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 70924765,
             "language": "Go",
             "last_commit": "2019-01-05T14:36:36Z",
             "owner": "globalsign",
@@ -414,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134462471,
             "language": "Ruby",
             "last_commit": "2023-03-09T01:23:24Z",
             "owner": "Evolix",
@@ -428,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141451667,
             "language": "Shell",
             "last_commit": "2019-09-26T07:00:00Z",
             "owner": "mimoo",
@@ -440,8 +428,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:50:54.434Z",
+    "last_updated": "2026-08-19T12:36:03.642Z",
     "original_repository": "denji/golang-tls",
+    "original_repository_id": 85368976,
     "original_repository_sha": "8646b4d514e3b96039c993e340d49dad1b56e114",
     "enhanced_repository": "enhansome/enhansome-golang-tls",
     "enhanced_repository_description": null,

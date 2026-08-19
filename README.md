@@ -247,9 +247,9 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,464 | 🐛 178 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,466 | 🐛 178 | 🌐 Go | 📅 2024-08-13
 * <https://github.com/cloudflare/cfssl> ⭐ 9,464 | 🐛 336 | 🌐 Go | 📅 2026-04-24
-* <https://github.com/smallstep/certificates> ⭐ 8,755 | 🐛 288 | 🌐 Go | 📅 2026-08-17
+* <https://github.com/smallstep/certificates> ⭐ 8,758 | 🐛 288 | 🌐 Go | 📅 2026-08-17
 * [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,285 | 🐛 26 | 🌐 Go | 📅 2024-05-31
 * <https://github.com/nabla-c0d3/sslyze> ⭐ 3,773 | 🐛 30 | 🌐 Python | 📅 2026-07-29
 * <https://github.com/chromium/badssl.com> ⭐ 3,041 | 🐛 208 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
@@ -260,7 +260,7 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 * <https://github.com/google/certificate-transparency-go> ⭐ 1,165 | 🐛 56 | 🌐 Go | 📅 2026-08-03
 * <https://github.com/google/certificate-transparency> ⚠️ Archived
 * <https://github.com/iSECPartners/sslyze> ⭐ 646 | 🐛 7 | 🌐 Python | 📅 2015-08-27
-* <https://github.com/tomato42/tlsfuzzer> ⭐ 632 | 🐛 279 | 🌐 Python | 📅 2026-08-18
+* <https://github.com/tomato42/tlsfuzzer> ⭐ 632 | 🐛 279 | 🌐 Python | 📅 2026-08-19
 * <https://github.com/mozilla/tls-observatory> ⚠️ Archived (<https://observatory.mozilla.org/>)
 * <https://github.com/zmap/zlint> ⭐ 444 | 🐛 95 | 🌐 Go | 📅 2026-08-16
 * <https://github.com/cloudflare/tls-tris> ⭐ 300 | 🐛 36 | 🌐 Go | 📅 2026-04-24 — crypto/tls, now with 100% more 1.3
