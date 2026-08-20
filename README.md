@@ -247,9 +247,9 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,466 | 🐛 178 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,470 | 🐛 178 | 🌐 Go | 📅 2024-08-13
 * <https://github.com/cloudflare/cfssl> ⭐ 9,464 | 🐛 336 | 🌐 Go | 📅 2026-04-24
-* <https://github.com/smallstep/certificates> ⭐ 8,758 | 🐛 288 | 🌐 Go | 📅 2026-08-17
+* <https://github.com/smallstep/certificates> ⭐ 8,759 | 🐛 288 | 🌐 Go | 📅 2026-08-17
 * [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,285 | 🐛 26 | 🌐 Go | 📅 2024-05-31
 * <https://github.com/nabla-c0d3/sslyze> ⭐ 3,773 | 🐛 30 | 🌐 Python | 📅 2026-07-29
 * <https://github.com/chromium/badssl.com> ⭐ 3,041 | 🐛 208 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
@@ -257,7 +257,7 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 * <https://github.com/datatheorem/TrustKit> ⭐ 2,140 | 🐛 34 | 🌐 Objective-C | 📅 2026-08-12
 * <https://github.com/mozilla/cipherscan> ⭐ 1,993 | 🐛 35 | 🌐 Python | 📅 2025-06-09
 * <https://github.com/ssllabs/ssllabs-scan> ⭐ 1,768 | 🐛 293 | 🌐 Go | 📅 2024-08-05
-* <https://github.com/google/certificate-transparency-go> ⭐ 1,165 | 🐛 56 | 🌐 Go | 📅 2026-08-03
+* <https://github.com/google/certificate-transparency-go> ⭐ 1,166 | 🐛 56 | 🌐 Go | 📅 2026-08-03
 * <https://github.com/google/certificate-transparency> ⚠️ Archived
 * <https://github.com/iSECPartners/sslyze> ⭐ 646 | 🐛 7 | 🌐 Python | 📅 2015-08-27
 * <https://github.com/tomato42/tlsfuzzer> ⭐ 632 | 🐛 279 | 🌐 Python | 📅 2026-08-19
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
