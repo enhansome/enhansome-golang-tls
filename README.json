@@ -15,7 +15,7 @@
             "last_commit": "2024-08-13T13:37:46Z",
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59472
+            "stars": 59475
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-24T00:37:10Z",
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9463
+            "stars": 9462
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-17T20:45:56Z",
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8761
+            "stars": 8764
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-29T13:13:16Z",
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3773
+            "stars": 3774
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-01T20:53:04Z",
             "owner": "unrolled",
             "repo": "secure",
-            "stars": 2353
+            "stars": 2354
           }
         },
         {
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 28972619,
             "language": "Python",
-            "last_commit": "2026-08-20T23:52:23Z",
+            "last_commit": "2026-08-21T14:35:07Z",
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
             "stars": 632
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T01:54:51.139Z",
+    "last_updated": "2026-08-22T01:47:33.773Z",
     "original_repository": "denji/golang-tls",
     "original_repository_id": 85368976,
     "original_repository_sha": "8646b4d514e3b96039c993e340d49dad1b56e114",
