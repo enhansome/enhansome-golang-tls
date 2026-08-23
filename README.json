@@ -15,7 +15,7 @@
             "last_commit": "2024-08-13T13:37:46Z",
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59475
+            "stars": 59486
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-17T20:45:56Z",
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8764
+            "stars": 8770
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-05-31T08:03:49Z",
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5283
+            "stars": 5284
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-03T09:21:55Z",
             "owner": "google",
             "repo": "certificate-transparency-go",
-            "stars": 1166
+            "stars": 1168
           }
         },
         {
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 28972619,
             "language": "Python",
-            "last_commit": "2026-08-21T14:35:07Z",
+            "last_commit": "2026-08-22T10:18:43Z",
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
             "stars": 632
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:47:33.773Z",
+    "last_updated": "2026-08-23T01:57:49.342Z",
     "original_repository": "denji/golang-tls",
     "original_repository_id": 85368976,
     "original_repository_sha": "8646b4d514e3b96039c993e340d49dad1b56e114",
