@@ -247,11 +247,11 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,486 | 🐛 178 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,490 | 🐛 178 | 🌐 Go | 📅 2024-08-13
 * <https://github.com/cloudflare/cfssl> ⭐ 9,462 | 🐛 336 | 🌐 Go | 📅 2026-04-24
-* <https://github.com/smallstep/certificates> ⭐ 8,770 | 🐛 288 | 🌐 Go | 📅 2026-08-17
+* <https://github.com/smallstep/certificates> ⭐ 8,772 | 🐛 288 | 🌐 Go | 📅 2026-08-17
 * [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,284 | 🐛 26 | 🌐 Go | 📅 2024-05-31
-* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,774 | 🐛 30 | 🌐 Python | 📅 2026-07-29
+* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,774 | 🐛 30 | 🌐 Python | 📅 2026-08-23
 * <https://github.com/chromium/badssl.com> ⭐ 3,042 | 🐛 208 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
 * <https://github.com/unrolled/secure> ⭐ 2,354 | 🐛 0 | 🌐 Go | 📅 2026-05-01
 * <https://github.com/datatheorem/TrustKit> ⭐ 2,139 | 🐛 34 | 🌐 Objective-C | 📅 2026-08-12
@@ -260,10 +260,10 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 * <https://github.com/google/certificate-transparency-go> ⭐ 1,168 | 🐛 57 | 🌐 Go | 📅 2026-08-03
 * <https://github.com/google/certificate-transparency> ⚠️ Archived
 * <https://github.com/iSECPartners/sslyze> ⭐ 646 | 🐛 7 | 🌐 Python | 📅 2015-08-27
-* <https://github.com/tomato42/tlsfuzzer> ⭐ 632 | 🐛 279 | 🌐 Python | 📅 2026-08-22
+* <https://github.com/tomato42/tlsfuzzer> ⭐ 632 | 🐛 279 | 🌐 Python | 📅 2026-08-23
 * <https://github.com/mozilla/tls-observatory> ⚠️ Archived (<https://observatory.mozilla.org/>)
 * <https://github.com/zmap/zlint> ⭐ 444 | 🐛 96 | 🌐 Go | 📅 2026-08-16
-* <https://github.com/cloudflare/tls-tris> ⭐ 300 | 🐛 36 | 🌐 Go | 📅 2026-04-24 — crypto/tls, now with 100% more 1.3
+* <https://github.com/cloudflare/tls-tris> ⭐ 300 | 🐛 37 | 🌐 Go | 📅 2026-04-24 — crypto/tls, now with 100% more 1.3
 * <https://github.com/genkiroid/cert> ⭐ 241 | 🐛 1 | 🌐 Go | 📅 2023-04-22
 * <https://github.com/bifurcation/mint> ⭐ 229 | 🐛 53 | 🌐 Go | 📅 2023-12-18 — minimal TLS 1.3 Implementation in Go
 * <https://github.com/certifi/gocertifi> ⭐ 213 | 🐛 6 | 🌐 Go | 📅 2023-06-07
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
