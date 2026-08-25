@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/FiloSottile/mkcert",
+          "title": "FiloSottile/mkcert",
           "description": null,
           "children": [],
           "repo_info": {
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/cloudflare/cfssl",
+          "title": "cloudflare/cfssl",
           "description": null,
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/smallstep/certificates",
+          "title": "smallstep/certificates",
           "description": null,
           "children": [],
           "repo_info": {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T21:12:41Z",
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8774
+            "stars": 8775
           }
         },
         {
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nabla-c0d3/sslyze",
+          "title": "nabla-c0d3/sslyze",
           "description": null,
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/chromium/badssl.com",
+          "title": "chromium/badssl.com",
           "description": "(https://badssl.com)",
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/unrolled/secure",
+          "title": "unrolled/secure",
           "description": null,
           "children": [],
           "repo_info": {
@@ -110,7 +110,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/datatheorem/TrustKit",
+          "title": "datatheorem/TrustKit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -125,7 +125,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mozilla/cipherscan",
+          "title": "mozilla/cipherscan",
           "description": null,
           "children": [],
           "repo_info": {
@@ -140,7 +140,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ssllabs/ssllabs-scan",
+          "title": "ssllabs/ssllabs-scan",
           "description": null,
           "children": [],
           "repo_info": {
@@ -155,7 +155,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/google/certificate-transparency-go",
+          "title": "google/certificate-transparency-go",
           "description": null,
           "children": [],
           "repo_info": {
@@ -170,7 +170,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/google/certificate-transparency",
+          "title": "google/certificate-transparency",
           "description": null,
           "children": [],
           "repo_info": {
@@ -185,7 +185,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/iSECPartners/sslyze",
+          "title": "iSECPartners/sslyze",
           "description": null,
           "children": [],
           "repo_info": {
@@ -200,7 +200,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/tomato42/tlsfuzzer",
+          "title": "tlsfuzzer/tlsfuzzer",
           "description": null,
           "children": [],
           "repo_info": {
@@ -215,7 +215,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mozilla/tls-observatory",
+          "title": "mozilla/tls-observatory",
           "description": "(https://observatory.mozilla.org/)",
           "children": [],
           "repo_info": {
@@ -230,7 +230,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zmap/zlint",
+          "title": "zmap/zlint",
           "description": null,
           "children": [],
           "repo_info": {
@@ -245,7 +245,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/cloudflare/tls-tris",
+          "title": "cloudflare/tls-tris",
           "description": "crypto/tls, now with 100% more 1.3",
           "children": [],
           "repo_info": {
@@ -260,7 +260,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/genkiroid/cert",
+          "title": "genkiroid/cert",
           "description": null,
           "children": [],
           "repo_info": {
@@ -275,7 +275,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bifurcation/mint",
+          "title": "bifurcation/mint",
           "description": "minimal TLS 1.3 Implementation in Go",
           "children": [],
           "repo_info": {
@@ -290,7 +290,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/certifi/gocertifi",
+          "title": "certifi/gocertifi",
           "description": null,
           "children": [],
           "repo_info": {
@@ -305,7 +305,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/konklone/shaaaaaaaaaaaaa",
+          "title": "konklone/shaaaaaaaaaaaaa",
           "description": "(https://shaaaaaaaaaaaaa.com/)",
           "children": [],
           "repo_info": {
@@ -320,7 +320,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/cmrunton/tls-dashboard",
+          "title": "cmrunton/tls-dashboard",
           "description": "dashboard written in JavaScript & HTML to check the remaining time before a TLS certificate expires.",
           "children": [],
           "repo_info": {
@@ -350,7 +350,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Xeoncross/secureserver",
+          "title": "xeoncross/secureserver",
           "description": null,
           "children": [],
           "repo_info": {
@@ -365,7 +365,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/tidwall/modern-server",
+          "title": "tidwall/modern-server",
           "description": null,
           "children": [],
           "repo_info": {
@@ -380,7 +380,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/globalsign/certlint",
+          "title": "globalsign/certlint",
           "description": null,
           "children": [],
           "repo_info": {
@@ -395,7 +395,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Evolix/chexpire",
+          "title": "Evolix/chexpire",
           "description": null,
           "children": [],
           "repo_info": {
@@ -410,7 +410,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mimoo/cryptobible/blob/master/protocols/tls.mediawiki",
+          "title": "mimoo/cryptobible",
           "description": null,
           "children": [],
           "repo_info": {
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:49:29.795Z",
+    "last_updated": "2026-08-25T06:06:30.187Z",
     "original_repository": "denji/golang-tls",
     "original_repository_id": 85368976,
     "original_repository_sha": "8646b4d514e3b96039c993e340d49dad1b56e114",
