@@ -42,10 +42,10 @@
             "archived": false,
             "id": 155658556,
             "language": "Go",
-            "last_commit": "2026-08-24T21:12:41Z",
+            "last_commit": "2026-08-27T11:13:15Z",
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8780
+            "stars": 8781
           }
         },
         {
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 28972619,
             "language": "Python",
-            "last_commit": "2026-08-26T15:23:14Z",
+            "last_commit": "2026-08-27T10:01:18Z",
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
             "stars": 632
@@ -428,9 +428,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:36:37.810Z",
-    "original_repository": "denji/golang-tls",
-    "original_repository_id": 85368976,
+    "last_updated": "2026-08-27T11:43:54.011Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 85368976,
+      "language": null,
+      "last_commit": "2020-11-20T20:01:23Z",
+      "owner": "denji",
+      "repo": "golang-tls",
+      "stars": 1330
+    },
     "original_repository_sha": "8646b4d514e3b96039c993e340d49dad1b56e114",
     "enhanced_repository": "enhansome/enhansome-golang-tls",
     "enhanced_repository_description": null,
