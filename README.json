@@ -15,8 +15,9 @@
             "last_commit": "2024-08-13T13:37:46Z",
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59498
-          }
+            "stars": 59509
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "cloudflare",
             "repo": "cfssl",
             "stars": 9462
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-27T11:13:15Z",
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8781
-          }
+            "stars": 8783
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "OWASP",
             "repo": "Go-SCP",
             "stars": 5285
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "nabla-c0d3",
             "repo": "sslyze",
             "stars": 3775
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "chromium",
             "repo": "badssl.com",
             "stars": 3043
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-05-01T20:53:04Z",
             "owner": "unrolled",
             "repo": "secure",
-            "stars": 2354
-          }
+            "stars": 2355
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "datatheorem",
             "repo": "TrustKit",
             "stars": 2138
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mozilla",
             "repo": "cipherscan",
             "stars": 1994
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "ssllabs",
             "repo": "ssllabs-scan",
             "stars": 1766
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -165,8 +175,9 @@
             "last_commit": "2026-08-03T09:21:55Z",
             "owner": "google",
             "repo": "certificate-transparency-go",
-            "stars": 1170
-          }
+            "stars": 1171
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "google",
             "repo": "certificate-transparency",
             "stars": 887
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "iSECPartners",
             "repo": "sslyze",
             "stars": 646
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
             "stars": 632
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "mozilla",
             "repo": "tls-observatory",
             "stars": 545
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "zmap",
             "repo": "zlint",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "cloudflare",
             "repo": "tls-tris",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "genkiroid",
             "repo": "cert",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "bifurcation",
             "repo": "mint",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "certifi",
             "repo": "gocertifi",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "konklone",
             "repo": "shaaaaaaaaaaaaa",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "cmrunton",
             "repo": "tls-dashboard",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "valyala",
             "repo": "tcplisten",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "xeoncross",
             "repo": "secureserver",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "tidwall",
             "repo": "modern-server",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "globalsign",
             "repo": "certlint",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "Evolix",
             "repo": "chexpire",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         },
         {
           "node_type": "item",
@@ -421,14 +448,15 @@
             "owner": "mimoo",
             "repo": "cryptobible",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T11:18:21.353Z"
         }
       ],
       "title": "Reference Link"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:54.011Z",
+    "last_updated": "2026-08-28T11:18:21.353Z",
     "original_repository_info": {
       "archived": false,
       "id": 85368976,
@@ -436,7 +464,7 @@
       "last_commit": "2020-11-20T20:01:23Z",
       "owner": "denji",
       "repo": "golang-tls",
-      "stars": 1330
+      "stars": 1331
     },
     "original_repository_sha": "8646b4d514e3b96039c993e340d49dad1b56e114",
     "enhanced_repository": "enhansome/enhansome-golang-tls",
