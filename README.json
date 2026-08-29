@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+            "homepage": "https://mkcert.dev",
             "id": 138547797,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-13T13:37:46Z",
+            "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59509
+            "stars": 59516,
+            "topics": [
+              "certificates",
+              "chrome",
+              "firefox",
+              "https",
+              "ios",
+              "linux",
+              "local-development",
+              "localhost",
+              "macos",
+              "root-ca",
+              "tls",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -26,12 +44,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CFSSL: Cloudflare's PKI and TLS toolkit",
+            "homepage": "https://cfssl.org/",
             "id": 21591001,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-04-24T00:37:10Z",
+            "open_issues": 338,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9462
+            "stars": 9462,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -42,12 +65,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
+            "homepage": "https://smallstep.com/certificates",
             "id": 155658556,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:13:15Z",
+            "open_issues": 287,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8783
+            "stars": 8785,
+            "topics": [
+              "acme",
+              "acme-server",
+              "ca",
+              "certificate-authority",
+              "certificates",
+              "go",
+              "pki",
+              "security",
+              "security-tools",
+              "ssh",
+              "tls",
+              "x509"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -58,12 +99,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang Secure Coding Practices guide",
+            "homepage": "https://owasp.org/www-project-go-secure-coding-practices-guide/",
             "id": 87070385,
             "language": "Go",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2024-05-31T08:03:49Z",
+            "open_issues": 26,
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5285
+            "stars": 5285,
+            "topics": [
+              "appsec",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -74,12 +123,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and powerful SSL/TLS scanning library.",
+            "homepage": null,
             "id": 23058769,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-23T19:34:50Z",
+            "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3775
+            "stars": 3775,
+            "topics": [
+              "heartbleed",
+              "library",
+              "python",
+              "scans",
+              "security",
+              "ssl",
+              "ssllabs",
+              "sslyze",
+              "tls",
+              "tls-scanning-library",
+              "tls13"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -90,12 +156,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":lock: Memorable site for testing clients against bad SSL configs.",
+            "homepage": "https://badssl.com",
             "id": 33571868,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-01T22:42:57Z",
+            "open_issues": 208,
             "owner": "chromium",
             "repo": "badssl.com",
-            "stars": 3043
+            "stars": 3043,
+            "topics": [
+              "browser",
+              "chrome",
+              "https",
+              "mitm",
+              "nginx",
+              "python",
+              "rcpp",
+              "security",
+              "sha1",
+              "ssl",
+              "testing",
+              "tls"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -106,12 +190,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP middleware for Go that facilitates some quick security wins.",
+            "homepage": null,
             "id": 19994985,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-01T20:53:04Z",
+            "open_issues": 0,
             "owner": "unrolled",
             "repo": "secure",
-            "stars": 2355
+            "stars": 2355,
+            "topics": [
+              "go",
+              "golang",
+              "middleware",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -122,12 +216,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.",
+            "homepage": null,
             "id": 30566161,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2026-08-12T22:04:54Z",
+            "open_issues": 34,
             "owner": "datatheorem",
             "repo": "TrustKit",
-            "stars": 2138
+            "stars": 2138,
+            "topics": [
+              "ios",
+              "macos",
+              "objective-c",
+              "ssl",
+              "ssl-pinning",
+              "ssl-reporting",
+              "tvos"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -138,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very simple way to find out which SSL ciphersuites are supported by a target.",
+            "homepage": null,
             "id": 11484496,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2025-06-09T16:21:03Z",
+            "open_issues": 36,
             "owner": "mozilla",
             "repo": "cipherscan",
-            "stars": 1994
+            "stars": 1994,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -154,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.",
+            "homepage": "https://www.ssllabs.com/projects/ssllabs-apis/",
             "id": 25200819,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-05T18:08:22Z",
+            "open_issues": 293,
             "owner": "ssllabs",
             "repo": "ssllabs-scan",
-            "stars": 1766
+            "stars": 1767,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -170,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auditing for TLS certificates (Go code)",
+            "homepage": "https://certificate.transparency.dev",
             "id": 90636971,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T09:21:55Z",
+            "open_issues": 56,
             "owner": "google",
             "repo": "certificate-transparency-go",
-            "stars": 1171
+            "stars": 1171,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -186,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Auditing for TLS certificates.",
+            "homepage": "https://certificate.transparency.dev",
             "id": 19989605,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-02T10:33:41Z",
+            "open_issues": 78,
             "owner": "google",
             "repo": "certificate-transparency",
-            "stars": 887
+            "stars": 887,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -202,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Current development of SSLyze now takes place on a separate repository",
+            "homepage": "https://github.com/nabla-c0d3/sslyze",
             "id": 4950184,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2015-08-27T18:49:08Z",
+            "open_issues": 7,
             "owner": "iSECPartners",
             "repo": "sslyze",
-            "stars": 646
+            "stars": 646,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -218,12 +350,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSL and TLS protocol test suite and fuzzer",
+            "homepage": null,
             "id": 28972619,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T10:01:18Z",
+            "open_issues": 279,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
-            "stars": 632
+            "stars": 632,
+            "topics": [
+              "automation",
+              "drown",
+              "fuzzer",
+              "protocol-tester",
+              "protocol-verifier",
+              "rfc-compliance",
+              "robot",
+              "security-audit",
+              "security-vulnerability",
+              "ssl",
+              "standard-conformity",
+              "test-automation",
+              "test-framework",
+              "test-suite",
+              "testing-tools",
+              "tls",
+              "tls12",
+              "tls13",
+              "tlslite",
+              "tlslite-ng"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -234,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An observatory for TLS configurations, X509 certificates, and more.",
+            "homepage": null,
             "id": 23923847,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2025-09-23T14:33:32Z",
+            "open_issues": 67,
             "owner": "mozilla",
             "repo": "tls-observatory",
-            "stars": 545
+            "stars": 545,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -250,12 +413,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "X.509 Certificate Linter focused on Web PKI standards and requirements.",
+            "homepage": "https://zmap.io",
             "id": 75216133,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T18:08:13Z",
+            "open_issues": 96,
             "owner": "zmap",
             "repo": "zlint",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "linter",
+              "x509"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -266,12 +437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "crypto/tls, now with 100% more 1.3. THE API IS NOT STABLE AND DOCUMENTATION IS NOT GUARANTEED.",
+            "homepage": null,
             "id": 59218728,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-24T00:41:15Z",
+            "open_issues": 37,
             "owner": "cloudflare",
             "repo": "tls-tris",
-            "stars": 300
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -282,12 +458,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cert is the Go tool to get TLS certificate information.",
+            "homepage": null,
             "id": 100850352,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-04-22T00:17:38Z",
+            "open_issues": 1,
             "owner": "genkiroid",
             "repo": "cert",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "certificate",
+              "cli",
+              "go",
+              "ssl",
+              "ssl-certificate",
+              "tls"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -298,12 +486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Minimal TLS 1.3 Implementation in Go",
+            "homepage": null,
             "id": 52216913,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-12-18T22:04:38Z",
+            "open_issues": 53,
             "owner": "bifurcation",
             "repo": "mint",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -314,12 +507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(Go Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.",
+            "homepage": "http://certifi.io",
             "id": 18764767,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2023-06-07T20:20:50Z",
+            "open_issues": 6,
             "owner": "certifi",
             "repo": "gocertifi",
-            "stars": 213
+            "stars": 213,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -330,12 +528,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Check if a website has weak SHA-1 TLS certificates.",
+            "homepage": "https://shaaaaaaaaaaaaa.com",
             "id": 23290424,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-10-02T06:00:39Z",
+            "open_issues": 13,
             "owner": "konklone",
             "repo": "shaaaaaaaaaaaaa",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -346,12 +549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dashboard written in JavaScript & HTML to check the remaining time before a TLS certificate expires.",
+            "homepage": null,
             "id": 59062065,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-08-26T14:26:08Z",
+            "open_issues": 4,
             "owner": "cmrunton",
             "repo": "tls-dashboard",
-            "stars": 184
+            "stars": 184,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -362,12 +570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customizable TCP net.Listener for Go",
+            "homepage": null,
             "id": 68122506,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-01-22T18:42:18Z",
+            "open_issues": 8,
             "owner": "valyala",
             "repo": "tcplisten",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -378,12 +591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Simple, Secured Default HTTP(S) Server for Golang",
+            "homepage": null,
             "id": 76905581,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2016-12-26T15:59:49Z",
+            "open_issues": 2,
             "owner": "xeoncross",
             "repo": "secureserver",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -394,12 +612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic web server framework with HTTP/2 and Let's Encrypt.",
+            "homepage": null,
             "id": 119617445,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-23T13:36:37Z",
+            "open_issues": 0,
             "owner": "tidwall",
             "repo": "modern-server",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -410,12 +633,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "X.509 certificate linter, written in Go",
+            "homepage": null,
             "id": 70924765,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-05T14:36:36Z",
+            "open_issues": 2,
             "owner": "globalsign",
             "repo": "certlint",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "asn1",
+              "certificate",
+              "go",
+              "golang",
+              "linter",
+              "pki",
+              "x509"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -426,12 +662,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web application to help check for domain or SSL/TLS certificate expirations.",
+            "homepage": null,
             "id": 134462471,
             "language": "Ruby",
+            "license": "AGPL-3.0",
             "last_commit": "2023-03-09T01:23:24Z",
+            "open_issues": 47,
             "owner": "Evolix",
             "repo": "chexpire",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "rails",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         },
@@ -442,12 +686,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auditing Applied Cryptography",
+            "homepage": "https://www.thecryptobible.co",
             "id": 141451667,
             "language": "Shell",
+            "license": null,
             "last_commit": "2019-09-26T07:00:00Z",
+            "open_issues": 2,
             "owner": "mimoo",
             "repo": "cryptobible",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "applied-cryptography",
+              "audit",
+              "best-practices",
+              "code-review",
+              "crypto",
+              "cryptography",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
         }
@@ -456,15 +713,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:18:21.353Z",
+    "last_updated": "2026-08-29T04:31:04.390Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Simple Golang HTTPS/TLS Examples",
+      "homepage": "https://git.io/vSvsI",
       "id": 85368976,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2020-11-20T20:01:23Z",
+      "open_issues": 4,
       "owner": "denji",
       "repo": "golang-tls",
-      "stars": 1331
+      "stars": 1331,
+      "topics": [
+        "awesome",
+        "go",
+        "golang",
+        "http2",
+        "httpclient",
+        "https",
+        "https-server",
+        "libressl",
+        "openssl",
+        "secure",
+        "security",
+        "security-audit",
+        "security-hardening",
+        "security-scanner",
+        "security-tools",
+        "tools"
+      ]
     },
     "original_repository_sha": "8646b4d514e3b96039c993e340d49dad1b56e114",
     "enhanced_repository": "enhansome/enhansome-golang-tls",
