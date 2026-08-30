@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59516,
+            "stars": 59522,
             "topics": [
               "certificates",
               "chrome",
@@ -74,7 +74,7 @@
             "open_issues": 287,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8785,
+            "stars": 8787,
             "topics": [
               "acme",
               "acme-server",
@@ -128,7 +128,7 @@
             "id": 23058769,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-23T19:34:50Z",
+            "last_commit": "2026-08-29T13:08:44Z",
             "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
@@ -225,7 +225,7 @@
             "open_issues": 34,
             "owner": "datatheorem",
             "repo": "TrustKit",
-            "stars": 2138,
+            "stars": 2139,
             "topics": [
               "ios",
               "macos",
@@ -272,7 +272,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2024-08-05T18:08:22Z",
-            "open_issues": 293,
+            "open_issues": 294,
             "owner": "ssllabs",
             "repo": "ssllabs-scan",
             "stars": 1767,
@@ -355,7 +355,7 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-27T10:01:18Z",
+            "last_commit": "2026-08-29T14:32:08Z",
             "open_issues": 279,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
@@ -642,7 +642,7 @@
             "open_issues": 2,
             "owner": "globalsign",
             "repo": "certlint",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "asn1",
               "certificate",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T06:59:57.688Z",
+    "last_updated": "2026-08-30T05:19:05.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
