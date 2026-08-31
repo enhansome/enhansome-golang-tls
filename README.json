@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59522,
+            "stars": 59521,
             "topics": [
               "certificates",
               "chrome",
@@ -53,7 +53,7 @@
             "open_issues": 338,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9462,
+            "stars": 9464,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -74,7 +74,7 @@
             "open_issues": 287,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8787,
+            "stars": 8791,
             "topics": [
               "acme",
               "acme-server",
@@ -128,7 +128,7 @@
             "id": 23058769,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T13:08:44Z",
+            "last_commit": "2026-08-30T19:21:43Z",
             "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
@@ -317,7 +317,7 @@
             "open_issues": 78,
             "owner": "google",
             "repo": "certificate-transparency",
-            "stars": 887,
+            "stars": 888,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -355,11 +355,11 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-29T14:32:08Z",
+            "last_commit": "2026-08-31T05:11:25Z",
             "open_issues": 279,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
-            "stars": 632,
+            "stars": 633,
             "topics": [
               "automation",
               "drown",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:19:05.546Z",
+    "last_updated": "2026-08-31T05:26:48.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
