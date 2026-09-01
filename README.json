@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59521,
+            "stars": 59526,
             "topics": [
               "certificates",
               "chrome",
@@ -53,7 +53,7 @@
             "open_issues": 338,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9464,
+            "stars": 9465,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -70,11 +70,11 @@
             "id": 155658556,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T11:13:15Z",
-            "open_issues": 287,
+            "last_commit": "2026-08-31T15:33:29Z",
+            "open_issues": 292,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8791,
+            "stars": 8798,
             "topics": [
               "acme",
               "acme-server",
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5285,
+            "stars": 5288,
             "topics": [
               "appsec",
               "golang"
@@ -275,7 +275,7 @@
             "open_issues": 294,
             "owner": "ssllabs",
             "repo": "ssllabs-scan",
-            "stars": 1767,
+            "stars": 1768,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -293,10 +293,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-03T09:21:55Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "google",
             "repo": "certificate-transparency-go",
-            "stars": 1171,
+            "stars": 1172,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -355,7 +355,7 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-31T05:11:25Z",
+            "last_commit": "2026-08-31T21:30:03Z",
             "open_issues": 279,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
@@ -419,7 +419,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T18:08:13Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "zmap",
             "repo": "zlint",
             "stars": 445,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:26:48.591Z",
+    "last_updated": "2026-09-01T05:01:03.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
