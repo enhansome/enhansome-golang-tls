@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59535,
+            "stars": 59540,
             "topics": [
               "certificates",
               "chrome",
@@ -70,8 +70,8 @@
             "id": 155658556,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T20:39:38Z",
-            "open_issues": 292,
+            "last_commit": "2026-09-02T11:21:11Z",
+            "open_issues": 288,
             "owner": "smallstep",
             "repo": "certificates",
             "stars": 8800,
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5289,
+            "stars": 5290,
             "topics": [
               "appsec",
               "golang"
@@ -165,7 +165,7 @@
             "open_issues": 209,
             "owner": "chromium",
             "repo": "badssl.com",
-            "stars": 3044,
+            "stars": 3045,
             "topics": [
               "browser",
               "chrome",
@@ -292,8 +292,8 @@
             "id": 90636971,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T18:17:50Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-02T15:31:42Z",
+            "open_issues": 57,
             "owner": "google",
             "repo": "certificate-transparency-go",
             "stars": 1174,
@@ -355,7 +355,7 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-01T10:44:11Z",
+            "last_commit": "2026-09-02T08:28:05Z",
             "open_issues": 279,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:24:10.872Z",
+    "last_updated": "2026-09-03T04:18:17.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
