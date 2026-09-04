@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59540,
+            "stars": 59544,
             "topics": [
               "certificates",
               "chrome",
@@ -70,11 +70,11 @@
             "id": 155658556,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T11:21:11Z",
-            "open_issues": 288,
+            "last_commit": "2026-09-04T02:04:09Z",
+            "open_issues": 289,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8800,
+            "stars": 8819,
             "topics": [
               "acme",
               "acme-server",
@@ -132,7 +132,7 @@
             "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3775,
+            "stars": 3774,
             "topics": [
               "heartbleed",
               "library",
@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "unrolled",
             "repo": "secure",
-            "stars": 2355,
+            "stars": 2354,
             "topics": [
               "go",
               "golang",
@@ -222,10 +222,10 @@
             "language": "Objective-C",
             "license": "MIT",
             "last_commit": "2026-08-12T22:04:54Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "datatheorem",
             "repo": "TrustKit",
-            "stars": 2139,
+            "stars": 2140,
             "topics": [
               "ios",
               "macos",
@@ -292,8 +292,8 @@
             "id": 90636971,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T15:31:42Z",
-            "open_issues": 57,
+            "last_commit": "2026-09-03T08:08:50Z",
+            "open_issues": 56,
             "owner": "google",
             "repo": "certificate-transparency-go",
             "stars": 1174,
@@ -355,11 +355,11 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-02T08:28:05Z",
+            "last_commit": "2026-09-03T12:30:50Z",
             "open_issues": 279,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
-            "stars": 633,
+            "stars": 634,
             "topics": [
               "automation",
               "drown",
@@ -537,7 +537,7 @@
             "open_issues": 13,
             "owner": "konklone",
             "repo": "shaaaaaaaaaaaaa",
-            "stars": 206,
+            "stars": 205,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:18:17.763Z",
+    "last_updated": "2026-09-04T04:24:32.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
@@ -725,7 +725,7 @@
       "open_issues": 4,
       "owner": "denji",
       "repo": "golang-tls",
-      "stars": 1331,
+      "stars": 1330,
       "topics": [
         "awesome",
         "go",
