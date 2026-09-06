@@ -247,12 +247,12 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,546 | 🐛 177 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,551 | 🐛 177 | 🌐 Go | 📅 2024-08-13
 * <https://github.com/cloudflare/cfssl> ⭐ 9,467 | 🐛 338 | 🌐 Go | 📅 2026-04-24
-* <https://github.com/smallstep/certificates> ⭐ 8,831 | 🐛 291 | 🌐 Go | 📅 2026-09-04
+* <https://github.com/smallstep/certificates> ⭐ 8,833 | 🐛 292 | 🌐 Go | 📅 2026-09-05
 * [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,290 | 🐛 26 | 🌐 Go | 📅 2024-05-31
 * <https://github.com/nabla-c0d3/sslyze> ⭐ 3,775 | 🐛 31 | 🌐 Python | 📅 2026-08-30
-* <https://github.com/chromium/badssl.com> ⭐ 3,045 | 🐛 209 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
+* <https://github.com/chromium/badssl.com> ⭐ 3,046 | 🐛 209 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
 * <https://github.com/unrolled/secure> ⭐ 2,354 | 🐛 0 | 🌐 Go | 📅 2026-05-01
 * <https://github.com/datatheorem/TrustKit> ⭐ 2,140 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-12
 * <https://github.com/mozilla/cipherscan> ⭐ 1,994 | 🐛 36 | 🌐 Python | 📅 2025-06-09
@@ -260,7 +260,7 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 * <https://github.com/google/certificate-transparency-go> ⭐ 1,174 | 🐛 56 | 🌐 Go | 📅 2026-09-03
 * <https://github.com/google/certificate-transparency> ⚠️ Archived
 * <https://github.com/iSECPartners/sslyze> ⭐ 646 | 🐛 7 | 🌐 Python | 📅 2015-08-27
-* <https://github.com/tomato42/tlsfuzzer> ⭐ 634 | 🐛 279 | 🌐 Python | 📅 2026-09-04
+* <https://github.com/tomato42/tlsfuzzer> ⭐ 634 | 🐛 279 | 🌐 Python | 📅 2026-09-05
 * <https://github.com/mozilla/tls-observatory> ⚠️ Archived (<https://observatory.mozilla.org/>)
 * <https://github.com/zmap/zlint> ⭐ 446 | 🐛 98 | 🌐 Go | 📅 2026-08-16
 * <https://github.com/cloudflare/tls-tris> ⭐ 300 | 🐛 37 | 🌐 Go | 📅 2026-04-24 — crypto/tls, now with 100% more 1.3
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
