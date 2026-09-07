@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59551,
+            "stars": 59554,
             "topics": [
               "certificates",
               "chrome",
@@ -53,7 +53,7 @@
             "open_issues": 338,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9467,
+            "stars": 9468,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -74,7 +74,7 @@
             "open_issues": 292,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8833,
+            "stars": 8840,
             "topics": [
               "acme",
               "acme-server",
@@ -132,7 +132,7 @@
             "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3775,
+            "stars": 3776,
             "topics": [
               "heartbleed",
               "library",
@@ -225,7 +225,7 @@
             "open_issues": 35,
             "owner": "datatheorem",
             "repo": "TrustKit",
-            "stars": 2140,
+            "stars": 2141,
             "topics": [
               "ios",
               "macos",
@@ -418,8 +418,8 @@
             "id": 75216133,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-16T18:08:13Z",
-            "open_issues": 98,
+            "last_commit": "2026-09-06T18:32:37Z",
+            "open_issues": 89,
             "owner": "zmap",
             "repo": "zlint",
             "stars": 446,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T04:31:17.979Z",
+    "last_updated": "2026-09-07T04:30:53.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
