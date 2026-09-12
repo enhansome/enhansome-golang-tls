@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59575,
+            "stars": 59577,
             "topics": [
               "certificates",
               "chrome",
@@ -71,10 +71,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-08T20:07:46Z",
-            "open_issues": 296,
+            "open_issues": 297,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8855,
+            "stars": 8860,
             "topics": [
               "acme",
               "acme-server",
@@ -132,7 +132,7 @@
             "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3778,
+            "stars": 3779,
             "topics": [
               "heartbleed",
               "library",
@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "unrolled",
             "repo": "secure",
-            "stars": 2354,
+            "stars": 2355,
             "topics": [
               "go",
               "golang",
@@ -419,7 +419,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T18:32:37Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "zmap",
             "repo": "zlint",
             "stars": 446,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T04:32:04.654Z",
+    "last_updated": "2026-09-12T04:28:35.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
