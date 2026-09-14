@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59584,
+            "stars": 59591,
             "topics": [
               "certificates",
               "chrome",
@@ -74,7 +74,7 @@
             "open_issues": 297,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8862,
+            "stars": 8866,
             "topics": [
               "acme",
               "acme-server",
@@ -129,7 +129,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-30T19:21:43Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
             "stars": 3779,
@@ -296,7 +296,7 @@
             "open_issues": 56,
             "owner": "google",
             "repo": "certificate-transparency-go",
-            "stars": 1176,
+            "stars": 1177,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -355,7 +355,7 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-12T16:56:17Z",
+            "last_commit": "2026-09-14T03:34:00Z",
             "open_issues": 279,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T04:40:36.114Z",
+    "last_updated": "2026-09-14T04:49:19.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
