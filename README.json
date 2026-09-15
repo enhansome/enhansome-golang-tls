@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59591,
+            "stars": 59594,
             "topics": [
               "certificates",
               "chrome",
@@ -53,7 +53,7 @@
             "open_issues": 338,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9468,
+            "stars": 9469,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -74,7 +74,7 @@
             "open_issues": 297,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8866,
+            "stars": 8868,
             "topics": [
               "acme",
               "acme-server",
@@ -129,7 +129,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-30T19:21:43Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
             "stars": 3779,
@@ -293,10 +293,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T21:10:11Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "google",
             "repo": "certificate-transparency-go",
-            "stars": 1177,
+            "stars": 1179,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -355,11 +355,11 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-14T03:34:00Z",
+            "last_commit": "2026-09-14T11:53:02Z",
             "open_issues": 279,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
-            "stars": 634,
+            "stars": 635,
             "topics": [
               "automation",
               "drown",
@@ -422,7 +422,7 @@
             "open_issues": 91,
             "owner": "zmap",
             "repo": "zlint",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "linter",
               "x509"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T04:49:19.644Z",
+    "last_updated": "2026-09-15T04:48:22.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
