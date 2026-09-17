@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59599,
+            "stars": 59606,
             "topics": [
               "certificates",
               "chrome",
@@ -70,11 +70,11 @@
             "id": 155658556,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T19:04:35Z",
-            "open_issues": 293,
+            "last_commit": "2026-09-16T16:19:05Z",
+            "open_issues": 296,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8870,
+            "stars": 8873,
             "topics": [
               "acme",
               "acme-server",
@@ -132,7 +132,7 @@
             "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3779,
+            "stars": 3780,
             "topics": [
               "heartbleed",
               "library",
@@ -254,7 +254,7 @@
             "open_issues": 36,
             "owner": "mozilla",
             "repo": "cipherscan",
-            "stars": 1994,
+            "stars": 1995,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -355,8 +355,8 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-16T00:35:47Z",
-            "open_issues": 279,
+            "last_commit": "2026-09-16T15:21:27Z",
+            "open_issues": 280,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
             "stars": 635,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T04:44:13.418Z",
+    "last_updated": "2026-09-17T04:47:04.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
@@ -725,7 +725,7 @@
       "open_issues": 4,
       "owner": "denji",
       "repo": "golang-tls",
-      "stars": 1330,
+      "stars": 1329,
       "topics": [
         "awesome",
         "go",
