@@ -247,20 +247,20 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,606 | 🐛 177 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,616 | 🐛 177 | 🌐 Go | 📅 2024-08-13
 * <https://github.com/cloudflare/cfssl> ⭐ 9,473 | 🐛 338 | 🌐 Go | 📅 2026-04-24
-* <https://github.com/smallstep/certificates> ⭐ 8,873 | 🐛 296 | 🌐 Go | 📅 2026-09-16
-* [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,289 | 🐛 26 | 🌐 Go | 📅 2024-05-31
+* <https://github.com/smallstep/certificates> ⭐ 8,875 | 🐛 295 | 🌐 Go | 📅 2026-09-17
+* [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,290 | 🐛 26 | 🌐 Go | 📅 2024-05-31
 * <https://github.com/nabla-c0d3/sslyze> ⭐ 3,780 | 🐛 31 | 🌐 Python | 📅 2026-08-30
-* <https://github.com/chromium/badssl.com> ⭐ 3,047 | 🐛 209 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
+* <https://github.com/chromium/badssl.com> ⭐ 3,047 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
 * <https://github.com/unrolled/secure> ⭐ 2,355 | 🐛 0 | 🌐 Go | 📅 2026-05-01
 * <https://github.com/datatheorem/TrustKit> ⭐ 2,142 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-12
 * <https://github.com/mozilla/cipherscan> ⭐ 1,995 | 🐛 36 | 🌐 Python | 📅 2025-06-09
 * <https://github.com/ssllabs/ssllabs-scan> ⭐ 1,767 | 🐛 294 | 🌐 Go | 📅 2024-08-05
-* <https://github.com/google/certificate-transparency-go> ⭐ 1,180 | 🐛 55 | 🌐 Go | 📅 2026-09-15
+* <https://github.com/google/certificate-transparency-go> ⭐ 1,181 | 🐛 58 | 🌐 Go | 📅 2026-09-17
 * <https://github.com/google/certificate-transparency> ⚠️ Archived
 * <https://github.com/iSECPartners/sslyze> ⭐ 645 | 🐛 7 | 🌐 Python | 📅 2015-08-27
-* <https://github.com/tomato42/tlsfuzzer> ⭐ 635 | 🐛 280 | 🌐 Python | 📅 2026-09-16
+* <https://github.com/tomato42/tlsfuzzer> ⭐ 635 | 🐛 280 | 🌐 Python | 📅 2026-09-17
 * <https://github.com/mozilla/tls-observatory> ⚠️ Archived (<https://observatory.mozilla.org/>)
 * <https://github.com/zmap/zlint> ⭐ 447 | 🐛 91 | 🌐 Go | 📅 2026-09-06
 * <https://github.com/cloudflare/tls-tris> ⭐ 300 | 🐛 37 | 🌐 Go | 📅 2026-04-24 — crypto/tls, now with 100% more 1.3
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
