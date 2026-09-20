@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59624,
+            "stars": 59656,
             "topics": [
               "certificates",
               "chrome",
@@ -74,7 +74,7 @@
             "open_issues": 299,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8878,
+            "stars": 8885,
             "topics": [
               "acme",
               "acme-server",
@@ -225,7 +225,7 @@
             "open_issues": 35,
             "owner": "datatheorem",
             "repo": "TrustKit",
-            "stars": 2142,
+            "stars": 2143,
             "topics": [
               "ios",
               "macos",
@@ -355,7 +355,7 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-17T12:16:14Z",
+            "last_commit": "2026-09-19T21:23:32Z",
             "open_issues": 280,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
@@ -418,7 +418,7 @@
             "id": 75216133,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T18:32:37Z",
+            "last_commit": "2026-09-19T17:20:20Z",
             "open_issues": 93,
             "owner": "zmap",
             "repo": "zlint",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:32:15.464Z",
+    "last_updated": "2026-09-20T04:48:42.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
