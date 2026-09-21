@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59656,
+            "stars": 59659,
             "topics": [
               "certificates",
               "chrome",
@@ -74,7 +74,7 @@
             "open_issues": 299,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8885,
+            "stars": 8889,
             "topics": [
               "acme",
               "acme-server",
@@ -132,7 +132,7 @@
             "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3781,
+            "stars": 3779,
             "topics": [
               "heartbleed",
               "library",
@@ -165,7 +165,7 @@
             "open_issues": 210,
             "owner": "chromium",
             "repo": "badssl.com",
-            "stars": 3047,
+            "stars": 3048,
             "topics": [
               "browser",
               "chrome",
@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "unrolled",
             "repo": "secure",
-            "stars": 2355,
+            "stars": 2356,
             "topics": [
               "go",
               "golang",
@@ -355,7 +355,7 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-19T21:23:32Z",
+            "last_commit": "2026-09-20T13:24:06Z",
             "open_issues": 280,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
@@ -418,11 +418,11 @@
             "id": 75216133,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T17:20:20Z",
-            "open_issues": 93,
+            "last_commit": "2026-09-20T20:21:21Z",
+            "open_issues": 90,
             "owner": "zmap",
             "repo": "zlint",
-            "stars": 447,
+            "stars": 448,
             "topics": [
               "linter",
               "x509"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T04:48:42.256Z",
+    "last_updated": "2026-09-21T04:49:20.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
