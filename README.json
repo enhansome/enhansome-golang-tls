@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59672,
+            "stars": 59681,
             "topics": [
               "certificates",
               "chrome",
@@ -49,11 +49,11 @@
             "id": 21591001,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-04-24T00:37:10Z",
-            "open_issues": 337,
+            "last_commit": "2026-09-23T18:02:53Z",
+            "open_issues": 335,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9474,
+            "stars": 9475,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -74,7 +74,7 @@
             "open_issues": 301,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8899,
+            "stars": 8901,
             "topics": [
               "acme",
               "acme-server",
@@ -132,7 +132,7 @@
             "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3780,
+            "stars": 3779,
             "topics": [
               "heartbleed",
               "library",
@@ -165,7 +165,7 @@
             "open_issues": 210,
             "owner": "chromium",
             "repo": "badssl.com",
-            "stars": 3049,
+            "stars": 3050,
             "topics": [
               "browser",
               "chrome",
@@ -254,7 +254,7 @@
             "open_issues": 37,
             "owner": "mozilla",
             "repo": "cipherscan",
-            "stars": 1995,
+            "stars": 1994,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -338,7 +338,7 @@
             "open_issues": 7,
             "owner": "iSECPartners",
             "repo": "sslyze",
-            "stars": 645,
+            "stars": 644,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T04:39:43.635Z",
+    "last_updated": "2026-09-24T04:41:31.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",

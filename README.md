@@ -247,19 +247,19 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,672 | 🐛 177 | 🌐 Go | 📅 2024-08-13
-* <https://github.com/cloudflare/cfssl> ⭐ 9,474 | 🐛 337 | 🌐 Go | 📅 2026-04-24
-* <https://github.com/smallstep/certificates> ⭐ 8,899 | 🐛 301 | 🌐 Go | 📅 2026-09-22
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,681 | 🐛 177 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/cloudflare/cfssl> ⭐ 9,475 | 🐛 335 | 🌐 Go | 📅 2026-09-23
+* <https://github.com/smallstep/certificates> ⭐ 8,901 | 🐛 301 | 🌐 Go | 📅 2026-09-22
 * [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,292 | 🐛 26 | 🌐 Go | 📅 2024-05-31
-* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,780 | 🐛 31 | 🌐 Python | 📅 2026-08-30
-* <https://github.com/chromium/badssl.com> ⭐ 3,049 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
+* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,779 | 🐛 31 | 🌐 Python | 📅 2026-08-30
+* <https://github.com/chromium/badssl.com> ⭐ 3,050 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
 * <https://github.com/unrolled/secure> ⭐ 2,356 | 🐛 0 | 🌐 Go | 📅 2026-05-01
 * <https://github.com/datatheorem/TrustKit> ⭐ 2,143 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-12
-* <https://github.com/mozilla/cipherscan> ⭐ 1,995 | 🐛 37 | 🌐 Python | 📅 2025-06-09
+* <https://github.com/mozilla/cipherscan> ⭐ 1,994 | 🐛 37 | 🌐 Python | 📅 2025-06-09
 * <https://github.com/ssllabs/ssllabs-scan> ⭐ 1,767 | 🐛 294 | 🌐 Go | 📅 2024-08-05
 * <https://github.com/google/certificate-transparency-go> ⭐ 1,183 | 🐛 54 | 🌐 Go | 📅 2026-09-21
 * <https://github.com/google/certificate-transparency> ⚠️ Archived
-* <https://github.com/iSECPartners/sslyze> ⭐ 645 | 🐛 7 | 🌐 Python | 📅 2015-08-27
+* <https://github.com/iSECPartners/sslyze> ⭐ 644 | 🐛 7 | 🌐 Python | 📅 2015-08-27
 * <https://github.com/tomato42/tlsfuzzer> ⭐ 635 | 🐛 280 | 🌐 Python | 📅 2026-09-21
 * <https://github.com/mozilla/tls-observatory> ⚠️ Archived (<https://observatory.mozilla.org/>)
 * <https://github.com/zmap/zlint> ⭐ 448 | 🐛 90 | 🌐 Go | 📅 2026-09-20
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
