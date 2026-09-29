@@ -247,23 +247,23 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,702 | 🐛 177 | 🌐 Go | 📅 2024-08-13
-* <https://github.com/cloudflare/cfssl> ⭐ 9,475 | 🐛 333 | 🌐 Go | 📅 2026-09-23
-* <https://github.com/smallstep/certificates> ⭐ 8,908 | 🐛 302 | 🌐 Go | 📅 2026-09-22
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,709 | 🐛 177 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/cloudflare/cfssl> ⭐ 9,476 | 🐛 332 | 🌐 Go | 📅 2026-09-28
+* <https://github.com/smallstep/certificates> ⭐ 8,913 | 🐛 303 | 🌐 Go | 📅 2026-09-28
 * [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,292 | 🐛 26 | 🌐 Go | 📅 2024-05-31
-* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,781 | 🐛 31 | 🌐 Python | 📅 2026-09-26
-* <https://github.com/chromium/badssl.com> ⭐ 3,050 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
-* <https://github.com/unrolled/secure> ⭐ 2,357 | 🐛 0 | 🌐 Go | 📅 2026-05-01
+* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,782 | 🐛 31 | 🌐 Python | 📅 2026-09-26
+* <https://github.com/chromium/badssl.com> ⭐ 3,051 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
+* <https://github.com/unrolled/secure> ⭐ 2,358 | 🐛 0 | 🌐 Go | 📅 2026-05-01
 * <https://github.com/datatheorem/TrustKit> ⭐ 2,144 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-12
 * <https://github.com/mozilla/cipherscan> ⭐ 1,995 | 🐛 37 | 🌐 Python | 📅 2025-06-09
 * <https://github.com/ssllabs/ssllabs-scan> ⭐ 1,768 | 🐛 294 | 🌐 Go | 📅 2024-08-05
-* <https://github.com/google/certificate-transparency-go> ⭐ 1,187 | 🐛 54 | 🌐 Go | 📅 2026-09-21
+* <https://github.com/google/certificate-transparency-go> ⭐ 1,188 | 🐛 54 | 🌐 Go | 📅 2026-09-21
 * <https://github.com/google/certificate-transparency> ⚠️ Archived
 * <https://github.com/iSECPartners/sslyze> ⭐ 645 | 🐛 7 | 🌐 Python | 📅 2015-08-27
 * <https://github.com/tomato42/tlsfuzzer> ⭐ 635 | 🐛 280 | 🌐 Python | 📅 2026-09-27
 * <https://github.com/mozilla/tls-observatory> ⚠️ Archived (<https://observatory.mozilla.org/>)
 * <https://github.com/zmap/zlint> ⭐ 448 | 🐛 91 | 🌐 Go | 📅 2026-09-20
-* <https://github.com/cloudflare/tls-tris> ⭐ 300 | 🐛 37 | 🌐 Go | 📅 2026-04-24 — crypto/tls, now with 100% more 1.3
+* <https://github.com/cloudflare/tls-tris> ⭐ 301 | 🐛 37 | 🌐 Go | 📅 2026-04-24 — crypto/tls, now with 100% more 1.3
 * <https://github.com/genkiroid/cert> ⭐ 241 | 🐛 1 | 🌐 Go | 📅 2023-04-22
 * <https://github.com/bifurcation/mint> ⭐ 229 | 🐛 53 | 🌐 Go | 📅 2023-12-18 — minimal TLS 1.3 Implementation in Go
 * <https://github.com/certifi/gocertifi> ⭐ 213 | 🐛 6 | 🌐 Go | 📅 2023-06-07
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59702,
+            "stars": 59709,
             "topics": [
               "certificates",
               "chrome",
@@ -49,11 +49,11 @@
             "id": 21591001,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-23T18:02:53Z",
-            "open_issues": 333,
+            "last_commit": "2026-09-28T17:32:09Z",
+            "open_issues": 332,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9475,
+            "stars": 9476,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -70,11 +70,11 @@
             "id": 155658556,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T08:50:51Z",
-            "open_issues": 302,
+            "last_commit": "2026-09-28T17:25:52Z",
+            "open_issues": 303,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8908,
+            "stars": 8913,
             "topics": [
               "acme",
               "acme-server",
@@ -132,7 +132,7 @@
             "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3781,
+            "stars": 3782,
             "topics": [
               "heartbleed",
               "library",
@@ -165,7 +165,7 @@
             "open_issues": 210,
             "owner": "chromium",
             "repo": "badssl.com",
-            "stars": 3050,
+            "stars": 3051,
             "topics": [
               "browser",
               "chrome",
@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "unrolled",
             "repo": "secure",
-            "stars": 2357,
+            "stars": 2358,
             "topics": [
               "go",
               "golang",
@@ -296,7 +296,7 @@
             "open_issues": 54,
             "owner": "google",
             "repo": "certificate-transparency-go",
-            "stars": 1187,
+            "stars": 1188,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -446,7 +446,7 @@
             "open_issues": 37,
             "owner": "cloudflare",
             "repo": "tls-tris",
-            "stars": 300,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T05:16:33.513Z",
+    "last_updated": "2026-09-29T05:38:13.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
