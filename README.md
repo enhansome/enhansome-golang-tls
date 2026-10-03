@@ -247,17 +247,17 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,721 | 🐛 177 | 🌐 Go | 📅 2024-08-13
-* <https://github.com/cloudflare/cfssl> ⭐ 9,479 | 🐛 333 | 🌐 Go | 📅 2026-09-30
-* <https://github.com/smallstep/certificates> ⭐ 8,918 | 🐛 302 | 🌐 Go | 📅 2026-09-29
-* [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,293 | 🐛 26 | 🌐 Go | 📅 2024-05-31
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,714 | 🐛 177 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/cloudflare/cfssl> ⭐ 9,478 | 🐛 333 | 🌐 Go | 📅 2026-09-30
+* <https://github.com/smallstep/certificates> ⭐ 8,920 | 🐛 302 | 🌐 Go | 📅 2026-09-29
+* [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,291 | 🐛 26 | 🌐 Go | 📅 2024-05-31
 * <https://github.com/nabla-c0d3/sslyze> ⭐ 3,783 | 🐛 31 | 🌐 Python | 📅 2026-09-26
 * <https://github.com/chromium/badssl.com> ⭐ 3,050 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
-* <https://github.com/unrolled/secure> ⭐ 2,358 | 🐛 0 | 🌐 Go | 📅 2026-05-01
+* <https://github.com/unrolled/secure> ⭐ 2,357 | 🐛 0 | 🌐 Go | 📅 2026-05-01
 * <https://github.com/datatheorem/TrustKit> ⭐ 2,144 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-12
 * <https://github.com/mozilla/cipherscan> ⭐ 1,995 | 🐛 37 | 🌐 Python | 📅 2025-06-09
-* <https://github.com/ssllabs/ssllabs-scan> ⭐ 1,768 | 🐛 294 | 🌐 Go | 📅 2024-08-05
-* <https://github.com/google/certificate-transparency-go> ⭐ 1,191 | 🐛 54 | 🌐 Go | 📅 2026-10-01
+* <https://github.com/ssllabs/ssllabs-scan> ⭐ 1,768 | 🐛 293 | 🌐 Go | 📅 2024-08-05
+* <https://github.com/google/certificate-transparency-go> ⭐ 1,191 | 🐛 55 | 🌐 Go | 📅 2026-10-01
 * <https://github.com/google/certificate-transparency> ⚠️ Archived
 * <https://github.com/iSECPartners/sslyze> ⭐ 645 | 🐛 7 | 🌐 Python | 📅 2015-08-27
 * <https://github.com/tomato42/tlsfuzzer> ⭐ 635 | 🐛 280 | 🌐 Python | 📅 2026-10-01
@@ -268,8 +268,8 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 * <https://github.com/bifurcation/mint> ⭐ 229 | 🐛 53 | 🌐 Go | 📅 2023-12-18 — minimal TLS 1.3 Implementation in Go
 * <https://github.com/certifi/gocertifi> ⭐ 213 | 🐛 6 | 🌐 Go | 📅 2023-06-07
 * <https://github.com/konklone/shaaaaaaaaaaaaa> ⚠️ Archived (<https://shaaaaaaaaaaaaa.com/>)
-* <https://github.com/cmrunton/tls-dashboard> ⭐ 184 | 🐛 4 | 🌐 JavaScript | 📅 2016-08-26 — dashboard written in JavaScript & HTML to check the remaining time before a TLS certificate expires.
-* Package [tcplisten](https://github.com/valyala/tcplisten) ⭐ 151 | 🐛 10 | 🌐 Go | 📅 2023-01-22 provides customizable TCP `net.Listener` with various performance-related options
+* <https://github.com/cmrunton/tls-dashboard> ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2016-08-26 — dashboard written in JavaScript & HTML to check the remaining time before a TLS certificate expires.
+* Package [tcplisten](https://github.com/valyala/tcplisten) ⭐ 151 | 🐛 9 | 🌐 Go | 📅 2023-01-22 provides customizable TCP `net.Listener` with various performance-related options
 * <https://github.com/Xeoncross/secureserver> ⭐ 134 | 🐛 2 | 🌐 Go | 📅 2016-12-26
 * <https://github.com/tidwall/modern-server> ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2022-06-23
 * <https://github.com/globalsign/certlint> ⚠️ Archived
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

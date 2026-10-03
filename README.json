@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "FiloSottile/mkcert",
-          "description": null,
+          "description": "FiloSottile/mkcert",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59721,
+            "stars": 59714,
             "topics": [
               "certificates",
               "chrome",
@@ -40,7 +40,7 @@
         {
           "node_type": "item",
           "title": "cloudflare/cfssl",
-          "description": null,
+          "description": "cloudflare/cfssl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -53,7 +53,7 @@
             "open_issues": 333,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9479,
+            "stars": 9478,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -61,7 +61,7 @@
         {
           "node_type": "item",
           "title": "smallstep/certificates",
-          "description": null,
+          "description": "smallstep/certificates",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -74,7 +74,7 @@
             "open_issues": 302,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8918,
+            "stars": 8920,
             "topics": [
               "acme",
               "acme-server",
@@ -95,7 +95,7 @@
         {
           "node_type": "item",
           "title": "Go programming language secure coding practices guide",
-          "description": null,
+          "description": "OWASP/Go-SCP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5293,
+            "stars": 5291,
             "topics": [
               "appsec",
               "golang"
@@ -119,7 +119,7 @@
         {
           "node_type": "item",
           "title": "nabla-c0d3/sslyze",
-          "description": null,
+          "description": "nabla-c0d3/sslyze",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -186,7 +186,7 @@
         {
           "node_type": "item",
           "title": "unrolled/secure",
-          "description": null,
+          "description": "unrolled/secure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "unrolled",
             "repo": "secure",
-            "stars": 2358,
+            "stars": 2357,
             "topics": [
               "go",
               "golang",
@@ -212,7 +212,7 @@
         {
           "node_type": "item",
           "title": "datatheorem/TrustKit",
-          "description": null,
+          "description": "datatheorem/TrustKit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -241,7 +241,7 @@
         {
           "node_type": "item",
           "title": "mozilla/cipherscan",
-          "description": null,
+          "description": "mozilla/cipherscan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -262,7 +262,7 @@
         {
           "node_type": "item",
           "title": "ssllabs/ssllabs-scan",
-          "description": null,
+          "description": "ssllabs/ssllabs-scan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -272,7 +272,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2024-08-05T18:08:22Z",
-            "open_issues": 294,
+            "open_issues": 293,
             "owner": "ssllabs",
             "repo": "ssllabs-scan",
             "stars": 1768,
@@ -283,7 +283,7 @@
         {
           "node_type": "item",
           "title": "google/certificate-transparency-go",
-          "description": null,
+          "description": "google/certificate-transparency-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -293,7 +293,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T18:37:15Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "google",
             "repo": "certificate-transparency-go",
             "stars": 1191,
@@ -304,7 +304,7 @@
         {
           "node_type": "item",
           "title": "google/certificate-transparency",
-          "description": null,
+          "description": "google/certificate-transparency",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -325,7 +325,7 @@
         {
           "node_type": "item",
           "title": "iSECPartners/sslyze",
-          "description": null,
+          "description": "iSECPartners/sslyze",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -346,7 +346,7 @@
         {
           "node_type": "item",
           "title": "tlsfuzzer/tlsfuzzer",
-          "description": null,
+          "description": "tlsfuzzer/tlsfuzzer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -409,7 +409,7 @@
         {
           "node_type": "item",
           "title": "zmap/zlint",
-          "description": null,
+          "description": "zmap/zlint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -454,7 +454,7 @@
         {
           "node_type": "item",
           "title": "genkiroid/cert",
-          "description": null,
+          "description": "genkiroid/cert",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -503,7 +503,7 @@
         {
           "node_type": "item",
           "title": "certifi/gocertifi",
-          "description": null,
+          "description": "certifi/gocertifi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -558,7 +558,7 @@
             "open_issues": 4,
             "owner": "cmrunton",
             "repo": "tls-dashboard",
-            "stars": 184,
+            "stars": 183,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -576,7 +576,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2023-01-22T18:42:18Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "valyala",
             "repo": "tcplisten",
             "stars": 151,
@@ -587,7 +587,7 @@
         {
           "node_type": "item",
           "title": "xeoncross/secureserver",
-          "description": null,
+          "description": "xeoncross/secureserver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,7 +608,7 @@
         {
           "node_type": "item",
           "title": "tidwall/modern-server",
-          "description": null,
+          "description": "tidwall/modern-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -629,7 +629,7 @@
         {
           "node_type": "item",
           "title": "globalsign/certlint",
-          "description": null,
+          "description": "globalsign/certlint",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -658,7 +658,7 @@
         {
           "node_type": "item",
           "title": "Evolix/chexpire",
-          "description": null,
+          "description": "Evolix/chexpire",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -682,7 +682,7 @@
         {
           "node_type": "item",
           "title": "mimoo/cryptobible",
-          "description": null,
+          "description": "mimoo/cryptobible",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:28:47.631Z",
+    "last_updated": "2026-10-03T04:48:08.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
