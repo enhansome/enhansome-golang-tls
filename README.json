@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59714,
+            "stars": 59717,
             "topics": [
               "certificates",
               "chrome",
@@ -74,7 +74,7 @@
             "open_issues": 302,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8920,
+            "stars": 8924,
             "topics": [
               "acme",
               "acme-server",
@@ -165,7 +165,7 @@
             "open_issues": 210,
             "owner": "chromium",
             "repo": "badssl.com",
-            "stars": 3050,
+            "stars": 3051,
             "topics": [
               "browser",
               "chrome",
@@ -355,7 +355,7 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-01T22:47:36Z",
+            "last_commit": "2026-10-04T02:25:19Z",
             "open_issues": 280,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:15:18.089Z",
+    "last_updated": "2026-10-04T05:45:23.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
