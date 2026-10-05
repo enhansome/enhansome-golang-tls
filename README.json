@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59717,
+            "stars": 59720,
             "topics": [
               "certificates",
               "chrome",
@@ -53,7 +53,7 @@
             "open_issues": 333,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9478,
+            "stars": 9479,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -74,7 +74,7 @@
             "open_issues": 302,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8924,
+            "stars": 8926,
             "topics": [
               "acme",
               "acme-server",
@@ -128,8 +128,8 @@
             "id": 23058769,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-26T10:40:08Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-04T19:31:39Z",
+            "open_issues": 32,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
             "stars": 3783,
@@ -165,7 +165,7 @@
             "open_issues": 210,
             "owner": "chromium",
             "repo": "badssl.com",
-            "stars": 3051,
+            "stars": 3050,
             "topics": [
               "browser",
               "chrome",
@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "unrolled",
             "repo": "secure",
-            "stars": 2357,
+            "stars": 2358,
             "topics": [
               "go",
               "golang",
@@ -418,8 +418,8 @@
             "id": 75216133,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T02:43:14Z",
-            "open_issues": 94,
+            "last_commit": "2026-10-04T19:08:38Z",
+            "open_issues": 89,
             "owner": "zmap",
             "repo": "zlint",
             "stars": 448,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T05:45:23.488Z",
+    "last_updated": "2026-10-05T05:30:22.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
