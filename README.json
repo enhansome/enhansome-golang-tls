@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59720,
+            "stars": 59726,
             "topics": [
               "certificates",
               "chrome",
@@ -50,10 +50,10 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-30T19:12:57Z",
-            "open_issues": 333,
+            "open_issues": 335,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9479,
+            "stars": 9480,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -70,11 +70,11 @@
             "id": 155658556,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T12:42:49Z",
-            "open_issues": 302,
+            "last_commit": "2026-10-05T15:46:00Z",
+            "open_issues": 304,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8926,
+            "stars": 8930,
             "topics": [
               "acme",
               "acme-server",
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5291,
+            "stars": 5292,
             "topics": [
               "appsec",
               "golang"
@@ -254,7 +254,7 @@
             "open_issues": 37,
             "owner": "mozilla",
             "repo": "cipherscan",
-            "stars": 1995,
+            "stars": 1994,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T05:30:22.694Z",
+    "last_updated": "2026-10-06T06:13:50.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
