@@ -247,9 +247,9 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,726 | 🐛 177 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,729 | 🐛 177 | 🌐 Go | 📅 2024-08-13
 * <https://github.com/cloudflare/cfssl> ⭐ 9,480 | 🐛 335 | 🌐 Go | 📅 2026-09-30
-* <https://github.com/smallstep/certificates> ⭐ 8,930 | 🐛 304 | 🌐 Go | 📅 2026-10-05
+* <https://github.com/smallstep/certificates> ⭐ 8,931 | 🐛 304 | 🌐 Go | 📅 2026-10-05
 * [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,292 | 🐛 26 | 🌐 Go | 📅 2024-05-31
 * <https://github.com/nabla-c0d3/sslyze> ⭐ 3,783 | 🐛 32 | 🌐 Python | 📅 2026-10-04
 * <https://github.com/chromium/badssl.com> ⭐ 3,050 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
