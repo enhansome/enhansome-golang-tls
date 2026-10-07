@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59729,
+            "stars": 59723,
             "topics": [
               "certificates",
               "chrome",
@@ -49,8 +49,8 @@
             "id": 21591001,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-30T19:12:57Z",
-            "open_issues": 335,
+            "last_commit": "2026-10-06T18:46:09Z",
+            "open_issues": 334,
             "owner": "cloudflare",
             "repo": "cfssl",
             "stars": 9480,
@@ -74,7 +74,7 @@
             "open_issues": 304,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8931,
+            "stars": 8934,
             "topics": [
               "acme",
               "acme-server",
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5292,
+            "stars": 5293,
             "topics": [
               "appsec",
               "golang"
@@ -132,7 +132,7 @@
             "open_issues": 32,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3783,
+            "stars": 3784,
             "topics": [
               "heartbleed",
               "library",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:29:51.954Z",
+    "last_updated": "2026-10-07T05:50:35.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
