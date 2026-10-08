@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59723,
+            "stars": 59726,
             "topics": [
               "certificates",
               "chrome",
@@ -50,7 +50,7 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-06T18:46:09Z",
-            "open_issues": 334,
+            "open_issues": 335,
             "owner": "cloudflare",
             "repo": "cfssl",
             "stars": 9480,
@@ -70,11 +70,11 @@
             "id": 155658556,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T15:46:00Z",
-            "open_issues": 304,
+            "last_commit": "2026-10-08T00:42:33Z",
+            "open_issues": 306,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8934,
+            "stars": 8939,
             "topics": [
               "acme",
               "acme-server",
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5293,
+            "stars": 5292,
             "topics": [
               "appsec",
               "golang"
@@ -196,7 +196,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-05-01T20:53:04Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "unrolled",
             "repo": "secure",
             "stars": 2358,
@@ -293,7 +293,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T18:37:15Z",
-            "open_issues": 55,
+            "open_issues": 57,
             "owner": "google",
             "repo": "certificate-transparency-go",
             "stars": 1191,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T05:50:35.988Z",
+    "last_updated": "2026-10-08T05:55:40.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
@@ -725,7 +725,7 @@
       "open_issues": 4,
       "owner": "denji",
       "repo": "golang-tls",
-      "stars": 1331,
+      "stars": 1330,
       "topics": [
         "awesome",
         "go",
