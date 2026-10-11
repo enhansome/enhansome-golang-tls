@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59726,
+            "stars": 59729,
             "topics": [
               "certificates",
               "chrome",
@@ -53,7 +53,7 @@
             "open_issues": 336,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9484,
+            "stars": 9485,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -70,8 +70,8 @@
             "id": 155658556,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T00:42:33Z",
-            "open_issues": 306,
+            "last_commit": "2026-10-10T15:30:57Z",
+            "open_issues": 305,
             "owner": "smallstep",
             "repo": "certificates",
             "stars": 8946,
@@ -132,7 +132,7 @@
             "open_issues": 32,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3784,
+            "stars": 3785,
             "topics": [
               "heartbleed",
               "library",
@@ -195,7 +195,7 @@
             "id": 19994985,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-05-01T20:53:04Z",
+            "last_commit": "2026-10-10T16:28:56Z",
             "open_issues": 1,
             "owner": "unrolled",
             "repo": "secure",
@@ -419,7 +419,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-04T19:08:38Z",
-            "open_issues": 90,
+            "open_issues": 92,
             "owner": "zmap",
             "repo": "zlint",
             "stars": 447,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T05:44:40.096Z",
+    "last_updated": "2026-10-11T05:39:26.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
