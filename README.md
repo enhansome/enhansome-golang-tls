@@ -249,9 +249,9 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 * <https://github.com/FiloSottile/mkcert> ⭐ 59,729 | 🐛 177 | 🌐 Go | 📅 2024-08-13
 * <https://github.com/cloudflare/cfssl> ⭐ 9,485 | 🐛 336 | 🌐 Go | 📅 2026-10-06
-* <https://github.com/smallstep/certificates> ⭐ 8,946 | 🐛 305 | 🌐 Go | 📅 2026-10-10
+* <https://github.com/smallstep/certificates> ⭐ 8,948 | 🐛 306 | 🌐 Go | 📅 2026-10-10
 * [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,291 | 🐛 26 | 🌐 Go | 📅 2024-05-31
-* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,785 | 🐛 32 | 🌐 Python | 📅 2026-10-04
+* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,786 | 🐛 32 | 🌐 Python | 📅 2026-10-04
 * <https://github.com/chromium/badssl.com> ⭐ 3,051 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
 * <https://github.com/unrolled/secure> ⭐ 2,357 | 🐛 1 | 🌐 Go | 📅 2026-10-10
 * <https://github.com/datatheorem/TrustKit> ⭐ 2,144 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-12
@@ -262,7 +262,7 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 * <https://github.com/iSECPartners/sslyze> ⭐ 645 | 🐛 7 | 🌐 Python | 📅 2015-08-27
 * <https://github.com/tomato42/tlsfuzzer> ⭐ 635 | 🐛 280 | 🌐 Python | 📅 2026-10-09
 * <https://github.com/mozilla/tls-observatory> ⚠️ Archived (<https://observatory.mozilla.org/>)
-* <https://github.com/zmap/zlint> ⭐ 447 | 🐛 92 | 🌐 Go | 📅 2026-10-04
+* <https://github.com/zmap/zlint> ⭐ 447 | 🐛 91 | 🌐 Go | 📅 2026-10-11
 * <https://github.com/cloudflare/tls-tris> ⭐ 301 | 🐛 37 | 🌐 Go | 📅 2026-04-24 — crypto/tls, now with 100% more 1.3
 * <https://github.com/genkiroid/cert> ⭐ 241 | 🐛 1 | 🌐 Go | 📅 2023-04-22
 * <https://github.com/bifurcation/mint> ⭐ 229 | 🐛 53 | 🌐 Go | 📅 2023-12-18 — minimal TLS 1.3 Implementation in Go
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
