@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59737,
+            "stars": 59741,
             "topics": [
               "certificates",
               "chrome",
@@ -50,7 +50,7 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-06T18:46:09Z",
-            "open_issues": 336,
+            "open_issues": 337,
             "owner": "cloudflare",
             "repo": "cfssl",
             "stars": 9485,
@@ -70,11 +70,11 @@
             "id": 155658556,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T15:30:57Z",
+            "last_commit": "2026-10-14T02:09:35Z",
             "open_issues": 308,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8951,
+            "stars": 8950,
             "topics": [
               "acme",
               "acme-server",
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5292,
+            "stars": 5293,
             "topics": [
               "appsec",
               "golang"
@@ -165,7 +165,7 @@
             "open_issues": 210,
             "owner": "chromium",
             "repo": "badssl.com",
-            "stars": 3051,
+            "stars": 3052,
             "topics": [
               "browser",
               "chrome",
@@ -296,7 +296,7 @@
             "open_issues": 56,
             "owner": "google",
             "repo": "certificate-transparency-go",
-            "stars": 1193,
+            "stars": 1197,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -418,8 +418,8 @@
             "id": 75216133,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T16:08:56Z",
-            "open_issues": 90,
+            "last_commit": "2026-10-13T20:40:56Z",
+            "open_issues": 92,
             "owner": "zmap",
             "repo": "zlint",
             "stars": 447,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T06:43:09.379Z",
+    "last_updated": "2026-10-14T04:46:37.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
