@@ -247,14 +247,14 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,741 | 🐛 177 | 🌐 Go | 📅 2024-08-13
-* <https://github.com/cloudflare/cfssl> ⭐ 9,485 | 🐛 337 | 🌐 Go | 📅 2026-10-06
-* <https://github.com/smallstep/certificates> ⭐ 8,950 | 🐛 308 | 🌐 Go | 📅 2026-10-14
-* [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,293 | 🐛 26 | 🌐 Go | 📅 2024-05-31
-* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,788 | 🐛 32 | 🌐 Python | 📅 2026-10-04
-* <https://github.com/chromium/badssl.com> ⭐ 3,052 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,744 | 🐛 177 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/cloudflare/cfssl> ⭐ 9,485 | 🐛 338 | 🌐 Go | 📅 2026-10-06
+* <https://github.com/smallstep/certificates> ⭐ 8,954 | 🐛 308 | 🌐 Go | 📅 2026-10-14
+* [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,294 | 🐛 26 | 🌐 Go | 📅 2024-05-31
+* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,789 | 🐛 32 | 🌐 Python | 📅 2026-10-04
+* <https://github.com/chromium/badssl.com> ⭐ 3,051 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
 * <https://github.com/unrolled/secure> ⭐ 2,358 | 🐛 1 | 🌐 Go | 📅 2026-10-10
-* <https://github.com/datatheorem/TrustKit> ⭐ 2,144 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-12
+* <https://github.com/datatheorem/TrustKit> ⭐ 2,143 | 🐛 10 | 🌐 Objective-C | 📅 2026-10-14
 * <https://github.com/mozilla/cipherscan> ⭐ 1,993 | 🐛 37 | 🌐 Python | 📅 2025-06-09
 * <https://github.com/ssllabs/ssllabs-scan> ⭐ 1,767 | 🐛 293 | 🌐 Go | 📅 2024-08-05
 * <https://github.com/google/certificate-transparency-go> ⭐ 1,197 | 🐛 56 | 🌐 Go | 📅 2026-10-09
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
