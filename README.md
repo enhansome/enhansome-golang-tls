@@ -247,17 +247,17 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,744 | 🐛 177 | 🌐 Go | 📅 2024-08-13
-* <https://github.com/cloudflare/cfssl> ⭐ 9,485 | 🐛 338 | 🌐 Go | 📅 2026-10-06
-* <https://github.com/smallstep/certificates> ⭐ 8,954 | 🐛 308 | 🌐 Go | 📅 2026-10-14
-* [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,294 | 🐛 26 | 🌐 Go | 📅 2024-05-31
-* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,789 | 🐛 32 | 🌐 Python | 📅 2026-10-04
-* <https://github.com/chromium/badssl.com> ⭐ 3,051 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,743 | 🐛 177 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/cloudflare/cfssl> ⭐ 9,488 | 🐛 338 | 🌐 Go | 📅 2026-10-06
+* <https://github.com/smallstep/certificates> ⭐ 8,957 | 🐛 309 | 🌐 Go | 📅 2026-10-15
+* [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,295 | 🐛 26 | 🌐 Go | 📅 2024-05-31
+* <https://github.com/nabla-c0d3/sslyze> ⭐ 3,790 | 🐛 32 | 🌐 Python | 📅 2026-10-04
+* <https://github.com/chromium/badssl.com> ⭐ 3,052 | 🐛 210 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
 * <https://github.com/unrolled/secure> ⭐ 2,358 | 🐛 1 | 🌐 Go | 📅 2026-10-10
-* <https://github.com/datatheorem/TrustKit> ⭐ 2,143 | 🐛 10 | 🌐 Objective-C | 📅 2026-10-14
+* <https://github.com/datatheorem/TrustKit> ⭐ 2,143 | 🐛 10 | 🌐 Objective-C | 📅 2026-10-16
 * <https://github.com/mozilla/cipherscan> ⭐ 1,993 | 🐛 37 | 🌐 Python | 📅 2025-06-09
 * <https://github.com/ssllabs/ssllabs-scan> ⭐ 1,767 | 🐛 293 | 🌐 Go | 📅 2024-08-05
-* <https://github.com/google/certificate-transparency-go> ⭐ 1,197 | 🐛 56 | 🌐 Go | 📅 2026-10-09
+* <https://github.com/google/certificate-transparency-go> ⭐ 1,196 | 🐛 57 | 🌐 Go | 📅 2026-10-09
 * <https://github.com/google/certificate-transparency> ⚠️ Archived
 * <https://github.com/iSECPartners/sslyze> ⭐ 645 | 🐛 7 | 🌐 Python | 📅 2015-08-27
 * <https://github.com/tomato42/tlsfuzzer> ⭐ 635 | 🐛 280 | 🌐 Python | 📅 2026-10-13
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
