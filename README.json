@@ -50,10 +50,10 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-06T18:46:09Z",
-            "open_issues": 338,
+            "open_issues": 341,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9488,
+            "stars": 9487,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -74,7 +74,7 @@
             "open_issues": 310,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8958,
+            "stars": 8961,
             "topics": [
               "acme",
               "acme-server",
@@ -132,7 +132,7 @@
             "open_issues": 32,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3790,
+            "stars": 3791,
             "topics": [
               "heartbleed",
               "library",
@@ -165,7 +165,7 @@
             "open_issues": 210,
             "owner": "chromium",
             "repo": "badssl.com",
-            "stars": 3052,
+            "stars": 3051,
             "topics": [
               "browser",
               "chrome",
@@ -254,7 +254,7 @@
             "open_issues": 37,
             "owner": "mozilla",
             "repo": "cipherscan",
-            "stars": 1993,
+            "stars": 1994,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -275,7 +275,7 @@
             "open_issues": 293,
             "owner": "ssllabs",
             "repo": "ssllabs-scan",
-            "stars": 1767,
+            "stars": 1768,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -418,8 +418,8 @@
             "id": 75216133,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T20:40:56Z",
-            "open_issues": 93,
+            "last_commit": "2026-10-17T19:36:07Z",
+            "open_issues": 89,
             "owner": "zmap",
             "repo": "zlint",
             "stars": 447,
@@ -446,7 +446,7 @@
             "open_issues": 37,
             "owner": "cloudflare",
             "repo": "tls-tris",
-            "stars": 300,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:17:57.569Z",
+    "last_updated": "2026-10-18T04:23:44.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
