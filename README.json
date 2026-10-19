@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59744,
+            "stars": 59743,
             "topics": [
               "certificates",
               "chrome",
@@ -74,7 +74,7 @@
             "open_issues": 310,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8961,
+            "stars": 8965,
             "topics": [
               "acme",
               "acme-server",
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5295,
+            "stars": 5297,
             "topics": [
               "appsec",
               "golang"
@@ -128,7 +128,7 @@
             "id": 23058769,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-04T19:31:39Z",
+            "last_commit": "2026-10-18T14:03:13Z",
             "open_issues": 32,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
@@ -355,7 +355,7 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-16T21:04:38Z",
+            "last_commit": "2026-10-19T03:36:10Z",
             "open_issues": 280,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T04:23:44.110Z",
+    "last_updated": "2026-10-19T04:32:29.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
@@ -725,7 +725,7 @@
       "open_issues": 4,
       "owner": "denji",
       "repo": "golang-tls",
-      "stars": 1330,
+      "stars": 1331,
       "topics": [
         "awesome",
         "go",
