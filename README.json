@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59751,
+            "stars": 59758,
             "topics": [
               "certificates",
               "chrome",
@@ -50,10 +50,10 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-06T18:46:09Z",
-            "open_issues": 343,
+            "open_issues": 345,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9489,
+            "stars": 9490,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -70,11 +70,11 @@
             "id": 155658556,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T17:58:02Z",
-            "open_issues": 310,
+            "last_commit": "2026-10-20T15:01:12Z",
+            "open_issues": 307,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8971,
+            "stars": 8974,
             "topics": [
               "acme",
               "acme-server",
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5298,
+            "stars": 5297,
             "topics": [
               "appsec",
               "golang"
@@ -129,10 +129,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-18T14:03:13Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3793,
+            "stars": 3795,
             "topics": [
               "heartbleed",
               "library",
@@ -162,10 +162,10 @@
             "language": "HTML",
             "license": "Apache-2.0",
             "last_commit": "2026-06-01T22:42:57Z",
-            "open_issues": 210,
+            "open_issues": 212,
             "owner": "chromium",
             "repo": "badssl.com",
-            "stars": 3052,
+            "stars": 3054,
             "topics": [
               "browser",
               "chrome",
@@ -199,7 +199,7 @@
             "open_issues": 1,
             "owner": "unrolled",
             "repo": "secure",
-            "stars": 2358,
+            "stars": 2357,
             "topics": [
               "go",
               "golang",
@@ -359,7 +359,7 @@
             "open_issues": 280,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
-            "stars": 635,
+            "stars": 636,
             "topics": [
               "automation",
               "drown",
@@ -419,7 +419,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-17T19:36:07Z",
-            "open_issues": 91,
+            "open_issues": 93,
             "owner": "zmap",
             "repo": "zlint",
             "stars": 447,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T04:41:55.482Z",
+    "last_updated": "2026-10-21T04:37:36.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
