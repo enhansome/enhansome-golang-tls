@@ -53,7 +53,7 @@
             "open_issues": 342,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9492,
+            "stars": 9493,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -74,7 +74,7 @@
             "open_issues": 306,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 8980,
+            "stars": 8985,
             "topics": [
               "acme",
               "acme-server",
@@ -108,7 +108,7 @@
             "open_issues": 26,
             "owner": "OWASP",
             "repo": "Go-SCP",
-            "stars": 5298,
+            "stars": 5299,
             "topics": [
               "appsec",
               "golang"
@@ -355,11 +355,11 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-23T04:23:44Z",
+            "last_commit": "2026-10-24T06:05:24Z",
             "open_issues": 280,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
-            "stars": 637,
+            "stars": 638,
             "topics": [
               "automation",
               "drown",
@@ -418,8 +418,8 @@
             "id": 75216133,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T19:36:07Z",
-            "open_issues": 94,
+            "last_commit": "2026-10-25T04:02:16Z",
+            "open_issues": 96,
             "owner": "zmap",
             "repo": "zlint",
             "stars": 447,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:29:06.760Z",
+    "last_updated": "2026-10-25T04:33:58.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
