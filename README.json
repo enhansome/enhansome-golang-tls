@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59800,
+            "stars": 59803,
             "topics": [
               "certificates",
               "chrome",
@@ -53,7 +53,7 @@
             "open_issues": 342,
             "owner": "cloudflare",
             "repo": "cfssl",
-            "stars": 9492,
+            "stars": 9493,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -74,7 +74,7 @@
             "open_issues": 306,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 9021,
+            "stars": 9024,
             "topics": [
               "acme",
               "acme-server",
@@ -292,11 +292,11 @@
             "id": 90636971,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T13:43:21Z",
+            "last_commit": "2026-10-29T23:48:49Z",
             "open_issues": 56,
             "owner": "google",
             "repo": "certificate-transparency-go",
-            "stars": 1201,
+            "stars": 1203,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -355,11 +355,11 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-28T14:00:32Z",
+            "last_commit": "2026-10-30T01:08:05Z",
             "open_issues": 282,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "automation",
               "drown",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T05:39:46.309Z",
+    "last_updated": "2026-10-30T05:38:53.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
