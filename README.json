@@ -19,7 +19,7 @@
             "open_issues": 177,
             "owner": "FiloSottile",
             "repo": "mkcert",
-            "stars": 59803,
+            "stars": 59811,
             "topics": [
               "certificates",
               "chrome",
@@ -71,10 +71,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-27T12:02:10Z",
-            "open_issues": 306,
+            "open_issues": 307,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 9024,
+            "stars": 9026,
             "topics": [
               "acme",
               "acme-server",
@@ -132,7 +132,7 @@
             "open_issues": 31,
             "owner": "nabla-c0d3",
             "repo": "sslyze",
-            "stars": 3795,
+            "stars": 3796,
             "topics": [
               "heartbleed",
               "library",
@@ -225,7 +225,7 @@
             "open_issues": 3,
             "owner": "datatheorem",
             "repo": "TrustKit",
-            "stars": 2142,
+            "stars": 2143,
             "topics": [
               "ios",
               "macos",
@@ -254,7 +254,7 @@
             "open_issues": 37,
             "owner": "mozilla",
             "repo": "cipherscan",
-            "stars": 1995,
+            "stars": 1994,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -272,7 +272,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2024-08-05T18:08:22Z",
-            "open_issues": 294,
+            "open_issues": 293,
             "owner": "ssllabs",
             "repo": "ssllabs-scan",
             "stars": 1768,
@@ -355,7 +355,7 @@
             "id": 28972619,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-30T01:08:05Z",
+            "last_commit": "2026-10-31T05:22:00Z",
             "open_issues": 282,
             "owner": "tlsfuzzer",
             "repo": "tlsfuzzer",
@@ -401,7 +401,7 @@
             "open_issues": 67,
             "owner": "mozilla",
             "repo": "tls-observatory",
-            "stars": 544,
+            "stars": 542,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T05:38:53.503Z",
+    "last_updated": "2026-10-31T05:29:47.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
