@@ -247,9 +247,9 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ## Reference Link
 
-* <https://github.com/FiloSottile/mkcert> ⭐ 59,836 | 🐛 178 | 🌐 Go | 📅 2024-08-13
-* <https://github.com/cloudflare/cfssl> ⭐ 9,497 | 🐛 344 | 🌐 Go | 📅 2026-10-22
-* <https://github.com/smallstep/certificates> ⭐ 9,045 | 🐛 308 | 🌐 Go | 📅 2026-11-06
+* <https://github.com/FiloSottile/mkcert> ⭐ 59,841 | 🐛 178 | 🌐 Go | 📅 2024-08-13
+* <https://github.com/cloudflare/cfssl> ⭐ 9,498 | 🐛 344 | 🌐 Go | 📅 2026-10-22
+* <https://github.com/smallstep/certificates> ⭐ 9,049 | 🐛 309 | 🌐 Go | 📅 2026-11-07
 * [Go programming language secure coding practices guide](https://github.com/Checkmarx/Go-SCP) ⭐ 5,301 | 🐛 26 | 🌐 Go | 📅 2024-05-31
 * <https://github.com/nabla-c0d3/sslyze> ⭐ 3,795 | 🐛 33 | 🌐 Python | 📅 2026-10-31
 * <https://github.com/chromium/badssl.com> ⭐ 3,058 | 🐛 212 | 🌐 HTML | 📅 2026-06-01 (<https://badssl.com>)
@@ -260,13 +260,13 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 * <https://github.com/google/certificate-transparency-go> ⭐ 1,208 | 🐛 54 | 🌐 Go | 📅 2026-11-04
 * <https://github.com/google/certificate-transparency> ⚠️ Archived
 * <https://github.com/iSECPartners/sslyze> ⭐ 645 | 🐛 7 | 🌐 Python | 📅 2015-08-27
-* <https://github.com/tomato42/tlsfuzzer> ⭐ 637 | 🐛 282 | 🌐 Python | 📅 2026-11-06
+* <https://github.com/tomato42/tlsfuzzer> ⭐ 637 | 🐛 282 | 🌐 Python | 📅 2026-11-08
 * <https://github.com/mozilla/tls-observatory> ⚠️ Archived (<https://observatory.mozilla.org/>)
 * <https://github.com/zmap/zlint> ⭐ 446 | 🐛 96 | 🌐 Go | 📅 2026-11-01
 * <https://github.com/cloudflare/tls-tris> ⭐ 299 | 🐛 37 | 🌐 Go | 📅 2026-04-24 — crypto/tls, now with 100% more 1.3
 * <https://github.com/genkiroid/cert> ⭐ 241 | 🐛 1 | 🌐 Go | 📅 2023-04-22
 * <https://github.com/bifurcation/mint> ⭐ 229 | 🐛 53 | 🌐 Go | 📅 2023-12-18 — minimal TLS 1.3 Implementation in Go
-* <https://github.com/certifi/gocertifi> ⭐ 214 | 🐛 6 | 🌐 Go | 📅 2023-06-07
+* <https://github.com/certifi/gocertifi> ⭐ 215 | 🐛 6 | 🌐 Go | 📅 2023-06-07
 * <https://github.com/konklone/shaaaaaaaaaaaaa> ⚠️ Archived (<https://shaaaaaaaaaaaaa.com/>)
 * <https://github.com/cmrunton/tls-dashboard> ⭐ 183 | 🐛 4 | 🌐 JavaScript | 📅 2016-08-26 — dashboard written in JavaScript & HTML to check the remaining time before a TLS certificate expires.
 * Package [tcplisten](https://github.com/valyala/tcplisten) ⭐ 151 | 🐛 12 | 🌐 Go | 📅 2023-01-22 provides customizable TCP `net.Listener` with various performance-related options
@@ -305,4 +305,4 @@ openssl x509 -req -sha256 -in server.csr -signkey server.key -out server.crt -da
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
