@@ -17,8 +17,8 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-20T03:08:07Z",
-                "open_issues": 9923,
+                "last_commit": "2026-11-21T05:43:49Z",
+                "open_issues": 9906,
                 "owner": "golang",
                 "repo": "go",
                 "stars": 140119,
@@ -55,10 +55,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T19:34:20Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "caddyserver",
             "repo": "certmagic",
-            "stars": 5618,
+            "stars": 5620,
             "topics": [
               "acme",
               "automatic-https",
@@ -88,7 +88,7 @@
             "open_issues": 313,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 9087,
+            "stars": 9088,
             "topics": [
               "acme",
               "acme-server",
@@ -184,7 +184,7 @@
                 "open_issues": 343,
                 "owner": "cloudflare",
                 "repo": "cfssl",
-                "stars": 9511,
+                "stars": 9513,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:18:21.353Z"
@@ -205,7 +205,7 @@
                 "open_issues": 313,
                 "owner": "smallstep",
                 "repo": "certificates",
-                "stars": 9087,
+                "stars": 9088,
                 "topics": [
                   "acme",
                   "acme-server",
@@ -239,7 +239,7 @@
                 "open_issues": 180,
                 "owner": "FiloSottile",
                 "repo": "mkcert",
-                "stars": 59884,
+                "stars": 59888,
                 "topics": [
                   "certificates",
                   "chrome",
@@ -330,10 +330,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T19:34:20Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "caddyserver",
                 "repo": "certmagic",
-                "stars": 5618,
+                "stars": 5620,
                 "topics": [
                   "acme",
                   "automatic-https",
@@ -366,8 +366,8 @@
                 "id": 75216133,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T18:34:16Z",
-                "open_issues": 94,
+                "last_commit": "2026-11-20T22:16:45Z",
+                "open_issues": 96,
                 "owner": "zmap",
                 "repo": "zlint",
                 "stars": 448,
@@ -550,8 +550,8 @@
                 "id": 28972619,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-20T06:43:56Z",
-                "open_issues": 282,
+                "last_commit": "2026-11-21T06:22:12Z",
+                "open_issues": 281,
                 "owner": "tlsfuzzer",
                 "repo": "tlsfuzzer",
                 "stars": 638,
@@ -841,7 +841,7 @@
             "open_issues": 37,
             "owner": "mozilla",
             "repo": "cipherscan",
-            "stars": 1992,
+            "stars": 1993,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:03:58.584Z",
+    "last_updated": "2026-11-21T06:57:58.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
