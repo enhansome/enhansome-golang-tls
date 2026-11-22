@@ -196,7 +196,7 @@ not a substitute for SANs.
 
 ### Option A: mkcert
 
-[`mkcert`](https://github.com/FiloSottile/mkcert) ⭐ 59,888 | 🐛 180 | 🌐 Go | 📅 2024-08-13 creates a local certificate
+[`mkcert`](https://github.com/FiloSottile/mkcert) ⭐ 59,893 | 🐛 180 | 🌐 Go | 📅 2024-08-13 creates a local certificate
 authority, installs its root certificate in supported local trust stores, and
 issues certificates for development names.
 
@@ -1398,7 +1398,7 @@ problems:
 
 Sources:
 
-* [Go issue: HTTP/2 and TLS cipher suites](https://github.com/golang/go/issues/34776) ⭐ 140,119 | 🐛 9,906 | 🌐 Go | 📅 2026-11-21
+* [Go issue: HTTP/2 and TLS cipher suites](https://github.com/golang/go/issues/34776) ⭐ 140,109 | 🐛 9,920 | 🌐 Go | 📅 2026-11-22
 * [Original Go TLS Gist and comments](https://gist.github.com/denji/12b3a568f092ab951456)
 * [Project issue: HTTP/2 cipher-suite compatibility](https://github.com/denji/golang-tls/issues/4)
 * [Project issue: certificate trust error](https://github.com/denji/golang-tls/issues/5)
@@ -1531,7 +1531,7 @@ solve different problems; they are not interchangeable.
 | ------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | ACME issuance inside a Go application | [`autocert`](https://pkg.go.dev/golang.org/x/crypto/acme/autocert)                                 |
 | Certificate automation and storage    | [`CertMagic`](https://github.com/caddyserver/certmagic) ⭐ 5,620 \| 🐛 47 \| 🌐 Go \| 📅 2026-10-01 |
-| Private ACME-compatible CA            | [`step-ca`](https://github.com/smallstep/certificates) ⭐ 9,088 \| 🐛 313 \| 🌐 Go \| 📅 2026-11-16 |
+| Private ACME-compatible CA            | [`step-ca`](https://github.com/smallstep/certificates) ⭐ 9,089 \| 🐛 313 \| 🌐 Go \| 📅 2026-11-16 |
 | Minimal local CA for tests            | [`minica`](https://github.com/jsha/minica) ⭐ 3,288 \| 🐛 32 \| 🌐 Go \| 📅 2025-09-03              |
 | TLS terminated outside the Go process | Reverse proxy, ingress controller, or load balancer with an explicit backend trust policy          |
 
@@ -1577,16 +1577,16 @@ it.
 | Tool                                                                                                                                             | Classification and when it is useful                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [XCA](https://github.com/chris2511/xca) ⭐ 2,035 \| 🐛 129 \| 🌐 C++ \| 📅 2026-11-15 ([downloads](https://hohnstaedt.de/xca/index.php/download)) | **Desktop X.509/PKI manager.** Manage keys, CSRs, certificates, templates, CRLs and a small CA through a GUI. Useful when a person needs to inspect or author certificate material without building a CA workflow by hand. Not an ACME automation service. The upstream download page lists XCA 2.9.0. |
-| [CFSSL](https://github.com/cloudflare/cfssl) ⭐ 9,513 \| 🐛 343 \| 🌐 Go \| 📅 2026-11-19                                                         | **PKI/TLS toolkit.** CLI and HTTP API for signing, verifying, bundling and inspecting certificates. Restored from the original list; it is actively releasing (v1.7.1 was published in October 2026) and the current repository states Go 1.27+ is required to build.                                  |
-| [Smallstep `step-ca`](https://github.com/smallstep/certificates) ⭐ 9,088 \| 🐛 313 \| 🌐 Go \| 📅 2026-11-16                                     | **Private CA service.** Useful for internal PKI, ACME-compatible issuance and managed identities.                                                                                                                                                                                                      |
+| [CFSSL](https://github.com/cloudflare/cfssl) ⭐ 9,515 \| 🐛 343 \| 🌐 Go \| 📅 2026-11-19                                                         | **PKI/TLS toolkit.** CLI and HTTP API for signing, verifying, bundling and inspecting certificates. Restored from the original list; it is actively releasing (v1.7.1 was published in October 2026) and the current repository states Go 1.27+ is required to build.                                  |
+| [Smallstep `step-ca`](https://github.com/smallstep/certificates) ⭐ 9,089 \| 🐛 313 \| 🌐 Go \| 📅 2026-11-16                                     | **Private CA service.** Useful for internal PKI, ACME-compatible issuance and managed identities.                                                                                                                                                                                                      |
 | [HashiCorp Vault PKI](https://developer.hashicorp.com/vault/docs/secrets/pki)                                                                    | **Secrets-manager-backed CA.** Issue short-lived dynamic certificates under Vault authentication and authorization policy.                                                                                                                                                                             |
-| [`mkcert`](https://github.com/FiloSottile/mkcert) ⭐ 59,888 \| 🐛 180 \| 🌐 Go \| 📅 2024-08-13                                                   | **Local development CA.** Convenient trusted certificates for developer workstations; do not distribute its CA private key.                                                                                                                                                                            |
+| [`mkcert`](https://github.com/FiloSottile/mkcert) ⭐ 59,893 \| 🐛 180 \| 🌐 Go \| 📅 2024-08-13                                                   | **Local development CA.** Convenient trusted certificates for developer workstations; do not distribute its CA private key.                                                                                                                                                                            |
 | [`minica`](https://github.com/jsha/minica) ⭐ 3,288 \| 🐛 32 \| 🌐 Go \| 📅 2025-09-03                                                            | **Minimal local CA.** Useful for tests and simple local certificate chains, not a complete production PKI.                                                                                                                                                                                             |
 | [OpenSSL documentation](https://docs.openssl.org/)                                                                                               | **Low-level certificate and key utility.** `req`, `x509`, `verify`, `s_client` and related commands are useful for controlled issuance and diagnosis.                                                                                                                                                  |
 
 ### ACME, renewal and deployment automation
 
-* [`lego`](https://github.com/go-acme/lego) ⭐ 10,042 | 🐛 104 | 🌐 Go | 📅 2026-11-19 — maintained Go ACME client/library with broad DNS-provider support; useful outside a Go application as well.
+* [`lego`](https://github.com/go-acme/lego) ⭐ 10,043 | 🐛 102 | 🌐 Go | 📅 2026-11-21 — maintained Go ACME client/library with broad DNS-provider support; useful outside a Go application as well.
 * [`CertMagic`](https://github.com/caddyserver/certmagic) ⭐ 5,620 | 🐛 47 | 🌐 Go | 📅 2026-10-01 — certificate automation library with storage, renewal and distributed coordination capabilities.
 * [`autocert`](https://pkg.go.dev/golang.org/x/crypto/acme/autocert) — ACME integration for Go HTTP services. Review its storage, challenge reachability, host policy and renewal behavior before deployment.
 * [cert-manager](https://cert-manager.io/docs/) — Kubernetes certificate lifecycle controller; relevant when Kubernetes owns workload certificate reconciliation.
@@ -1594,7 +1594,7 @@ it.
 
 ### Certificate inspection, linting and policy validation
 
-* [`zlint`](https://github.com/zmap/zlint) ⭐ 448 | 🐛 96 | 🌐 Go | 📅 2026-11-20 — actively maintained X.509 certificate linter for RFC, CA/Browser Forum and other PKI requirements; v3.7.2 was released in September 2026. It checks certificate profile conformance, not whether a deployment's trust model is correct.
+* [`zlint`](https://github.com/zmap/zlint) ⭐ 448 | 🐛 95 | 🌐 Go | 📅 2026-11-21 — actively maintained X.509 certificate linter for RFC, CA/Browser Forum and other PKI requirements; v3.7.2 was released in September 2026. It checks certificate profile conformance, not whether a deployment's trust model is correct.
 * [`gocertifi`](https://github.com/certifi/gocertifi) ⭐ 215 | 🐛 6 | 🌐 Go | 📅 2023-06-07 — embedded Mozilla-derived root bundle for environments where Go cannot find an appropriate system bundle or a pinned CA set is a deliberate requirement. **Do not add it by default**: an embedded root set needs an explicit update and rollout policy.
 * [`certlint`](https://github.com/globalsign/certlint) ⚠️ Archived — **archived** GlobalSign certificate-linting project. Retained as historical context; prefer ZLint for a maintained linter. The upstream repository is archived.
 * [`openssl x509`](https://docs.openssl.org/master/man1/openssl-x509/) and [`openssl verify`](https://docs.openssl.org/master/man1/openssl-verification-options/) — inspect fields and verify chains locally.
@@ -1610,8 +1610,8 @@ it.
 | [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)                                                                 | Reference profiles for supported TLS terminators such as NGINX, Apache and HAProxy.         | It is not a generator for Go `tls.Config`; translate the policy rather than copying cipher lists into Go.                                                                                                |
 | [`badssl.com`](https://badssl.com/)                                                                                                    | Test client behavior against deliberately broken certificates and TLS configurations.       | Excellent integration-test target; do not send sensitive data to test endpoints.                                                                                                                         |
 | [`genkiroid/cert`](https://github.com/genkiroid/cert) ⭐ 241 \| 🐛 1 \| 🌐 Go \| 📅 2023-04-22                                          | Go CLI to inspect a remote TLS certificate, SANs, issuer, validity and chain details.       | Latest GitHub release shown is 1.0.0 (April 2023). It exposes a `-k`/`-skip-verify` option; do not use that option when checking the validity of a peer.                                                 |
-| [`tlsfuzzer`](https://github.com/tlsfuzzer/tlsfuzzer) ⭐ 638 \| 🐛 281 \| 🌐 Python \| 📅 2026-11-21                                    | TLS protocol conformance, negative testing and fuzzing.                                     | Active project; this is a test harness, not an endpoint hardening scanner. Use in controlled test environments.                                                                                          |
-| [Google Certificate Transparency Go](https://github.com/google/certificate-transparency-go) ⭐ 1,209 \| 🐛 58 \| 🌐 Go \| 📅 2026-11-16 | CT log, monitor and ecosystem components.                                                   | Specialist Go code for CT systems; not needed for ordinary TLS client/server setup.                                                                                                                      |
+| [`tlsfuzzer`](https://github.com/tlsfuzzer/tlsfuzzer) ⭐ 639 \| 🐛 282 \| 🌐 Python \| 📅 2026-11-22                                    | TLS protocol conformance, negative testing and fuzzing.                                     | Active project; this is a test harness, not an endpoint hardening scanner. Use in controlled test environments.                                                                                          |
+| [Google Certificate Transparency Go](https://github.com/google/certificate-transparency-go) ⭐ 1,209 \| 🐛 57 \| 🌐 Go \| 📅 2026-11-16 | CT log, monitor and ecosystem components.                                                   | Specialist Go code for CT systems; not needed for ordinary TLS client/server setup.                                                                                                                      |
 
 ### Certificate expiry and operational monitoring
 
@@ -1705,4 +1705,4 @@ CC0-1.0. Use anything here without attribution, See [LICENSE](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
