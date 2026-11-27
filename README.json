@@ -17,11 +17,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-25T23:35:59Z",
-                "open_issues": 9945,
+                "last_commit": "2026-11-26T19:59:30Z",
+                "open_issues": 9955,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 140141,
+                "stars": 140175,
                 "topics": [
                   "go",
                   "golang",
@@ -84,11 +84,11 @@
             "id": 155658556,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T12:02:20Z",
-            "open_issues": 315,
+            "last_commit": "2026-11-26T16:25:00Z",
+            "open_issues": 313,
             "owner": "smallstep",
             "repo": "certificates",
-            "stars": 9106,
+            "stars": 9111,
             "topics": [
               "acme",
               "acme-server",
@@ -151,7 +151,7 @@
                 "open_issues": 131,
                 "owner": "chris2511",
                 "repo": "xca",
-                "stars": 2035,
+                "stars": 2036,
                 "topics": [
                   "certificate-authority",
                   "certificates",
@@ -181,7 +181,7 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-19T18:39:06Z",
-                "open_issues": 344,
+                "open_issues": 343,
                 "owner": "cloudflare",
                 "repo": "cfssl",
                 "stars": 9522,
@@ -201,11 +201,11 @@
                 "id": 155658556,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T12:02:20Z",
-                "open_issues": 315,
+                "last_commit": "2026-11-26T16:25:00Z",
+                "open_issues": 313,
                 "owner": "smallstep",
                 "repo": "certificates",
-                "stars": 9106,
+                "stars": 9111,
                 "topics": [
                   "acme",
                   "acme-server",
@@ -239,7 +239,7 @@
                 "open_issues": 180,
                 "owner": "FiloSottile",
                 "repo": "mkcert",
-                "stars": 59929,
+                "stars": 59933,
                 "topics": [
                   "certificates",
                   "chrome",
@@ -297,11 +297,11 @@
                 "id": 37038121,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-25T16:46:52Z",
-                "open_issues": 99,
+                "last_commit": "2026-11-26T17:16:37Z",
+                "open_issues": 98,
                 "owner": "go-acme",
                 "repo": "lego",
-                "stars": 10059,
+                "stars": 10061,
                 "topics": [
                   "acme",
                   "acme-client",
@@ -451,7 +451,7 @@
                 "open_issues": 34,
                 "owner": "nabla-c0d3",
                 "repo": "sslyze",
-                "stars": 3800,
+                "stars": 3801,
                 "topics": [
                   "heartbleed",
                   "library",
@@ -484,7 +484,7 @@
                 "open_issues": 7,
                 "owner": "iSECPartners",
                 "repo": "sslyze",
-                "stars": 645,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:18:21.353Z"
@@ -554,7 +554,7 @@
                 "open_issues": 285,
                 "owner": "tlsfuzzer",
                 "repo": "tlsfuzzer",
-                "stars": 639,
+                "stars": 640,
                 "topics": [
                   "automation",
                   "drown",
@@ -596,7 +596,7 @@
                 "open_issues": 59,
                 "owner": "google",
                 "repo": "certificate-transparency-go",
-                "stars": 1211,
+                "stars": 1212,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:18:21.353Z"
@@ -841,7 +841,7 @@
             "open_issues": 37,
             "owner": "mozilla",
             "repo": "cipherscan",
-            "stars": 1993,
+            "stars": 1994,
             "topics": []
           },
           "first_seen": "2026-08-28T11:18:21.353Z"
@@ -964,7 +964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:06:20.627Z",
+    "last_updated": "2026-11-27T08:16:11.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "Simple Golang HTTPS/TLS Examples",
